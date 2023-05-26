@@ -1,3 +1,40 @@
+This version of PaperBLAST is for the redistribution of GapMind.
+
+Since the original GapMind relies upon usearch, it cannot be redistributed. This version uses Diamond instead of usearch.
+
+The original PaperBLAST code is available at 
+
+https://github.com/morgannprice/PaperBLAST
+
+
+# GapMind installation
+
+This installation is intended only for running GapMind from the command line. If you want full PaperBLAST installation, see description below. The installer requires conda (tested with Anaconda). Run "bash setup.sh" to install dependencies: hmmer, diamond, ncbi-blast and perl libraries. It will create cgcms-gapmind environment.
+
+# Running GapMind from a bash script
+
+The example script is supposed to be in the PaperBLAST directory.
+
+
+	GENOME=test
+	TEMPDIR=tmp/$GENOME
+	CONDADIR=$(dirname "$(which conda)")
+	CONDADIR=$(dirname "$CONDADIR")
+	source "$CONDADIR/etc/profile.d/conda.sh"
+	conda activate cgcms-gapmind
+	mkdir $TEMPDIR
+	perl bin/buildorgs.pl -out $TEMPDIR/orgs -orgs 'file:testinput.faa:Test genome'
+	diamond makedb --in $TEMPDIR/orgs.faa --db $TEMPDIR/orgs.faa
+	perl bin/gapsearch.pl -orgs $TEMPDIR/orgs -set carbon -out $TEMPDIR/carbon.hits -nCPU 8
+	perl bin/gaprevsearch.pl -orgs $TEMPDIR/orgs -hits $TEMPDIR/carbon.hits -curated tmp/path.carbon/curated.faa.udb.dmnd -out $TEMPDIR/carbon.revhits -nCPU 8
+	perl bin/gapsummary.pl -orgs $TEMPDIR/orgs -set carbon -hits $TEMPDIR/carbon.hits -rev $TEMPDIR/carbon.revhits -out $TEMPDIR/carbon.sum
+	perl bin/checkGapRequirements.pl -org $TEMPDIR -set carbon -out $TEMPDIR/carbon.sum.warn
+	conda deactivate
+
+
+
+# The following is the original PaperBLAST README:
+
 PaperBLAST is a tool to find papers about homologs of a protein of interest. For an example see
 
 http://papers.genomics.lbl.gov/cgi-bin/litSearch.cgi?query=VIMSS14484

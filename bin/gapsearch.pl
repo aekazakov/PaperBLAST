@@ -62,7 +62,7 @@ END
 
   my $binDir = $RealBin;
   my $hmmsearch = "$binDir/hmmsearch";
-  my $usearch = "$binDir/usearch";
+  my $usearch = "$binDir/diamond"; # my $usearch = "$binDir/usearch";
   foreach my $b ($hmmsearch, $usearch) {
     die "No such file or not executable: $b\n" unless -x $b;
   }
@@ -173,15 +173,20 @@ END
     print $fhC join("", ">", $id, "\n", $row->{seq}, "\n");
   }
   close($fhC) || die "Error writing to $cfile\n";
+  #my $cmd = join(" ",
+  #               $usearch, "-ublast", $cfile, "-db", $aaIn,
+  #               "-evalue", 0.01, "-id", 0.3,
+  #               "-blast6out", "$cfile.hits",
+  #               "-threads", $nCPU);
   my $cmd = join(" ",
-                 $usearch, "-ublast", $cfile, "-db", $aaIn,
-                 "-evalue", 0.01, "-id", 0.3,
-                 "-blast6out", "$cfile.hits",
-                 "-threads", $nCPU);
-  $cmd .= " > /dev/null 2>&1" unless defined $verbose;
+                 $usearch, "blastp", "--query", $cfile, "--db", $aaIn.".dmnd",
+                 "--evalue", 0.01, "--id", 0.3,
+                 "--out", "$cfile.hits", "--very-sensitive", "--outfmt", 6,
+                 "--threads", $nCPU);
+  #$cmd .= " > /dev/null 2>&1" unless defined $verbose;
   print STDERR "Running $cmd\n" if defined $verbose;
   system($cmd) == 0 || die "$cmd failed: $!\n";
-  print STDERR "ublast finished\n";
+  print STDERR "DIAMOND finished\n"; # print STDERR "ublast finished\n";
   open(my $fhH, "<", "$cfile.hits") || die "usearch did not create $cfile.hits\n";
   while(my $line = <$fhH>) {
     chomp $line;

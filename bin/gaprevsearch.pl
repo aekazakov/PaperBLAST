@@ -56,7 +56,7 @@ END
   foreach my $file ($hitsFile, $curatedFile) {
     die "No such file: $file\n" unless -e $file;
   }
-  my $usearch = "$Bin/usearch";
+  my $usearch = "$Bin/diamond";  # my $usearch = "$Bin/usearch";
   foreach my $x ($usearch) {
     die "No such executable: $x\n" unless -x $x;
   }
@@ -90,7 +90,8 @@ END
     close($fhIn) || die "Error reading $aaIn\n";
     close($fhCand) || die "Error writing to $faaCand\n";
 
-    my $cmd = "$usearch -ublast $faaCand -db $curatedFile -id 0.3 -evalue 0.01 -blast6out $rhitsFile -qmask $qmask -threads $nCPU > /dev/null 2>&1";
+    #my $cmd = "$usearch -ublast $faaCand -db $curatedFile -id 0.3 -evalue 0.01 -blast6out $rhitsFile -qmask $qmask -threads $nCPU > /dev/null 2>&1";
+    my $cmd = "$usearch blastp --query $faaCand --db $curatedFile --id 0.3 --evalue 0.01 --out $rhitsFile --very-sensitive --outfmt 6 --masking $qmask --threads $nCPU"; # > /dev/null 2>&1";
 
     system($cmd) == 0 || die "Error running $cmd: $!\n";
     unlink($faaCand);

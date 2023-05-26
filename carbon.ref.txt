@@ -1,0 +1,1316 @@
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	Psest_0084	2-oxoglutarate TRAP transporter, fused 4TM/12TM components
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	Psest_0085	2-oxoglutarate TRAP transporter, solute receptor component
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	csbX	2-oxoglutarate permease csbX
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	dctM	2-oxoglutarate TRAP transporter, large permease component DctM
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	dctP	2-oxoglutarate TRAP transporter, solute receptor component DctP
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	dctQ	2-oxoglutarate TRAP transporter, small permease component DctQ
+2-oxoglutarate	2-oxoglutarate (alpha-ketoglutarate) catabolism	kgtP	2-oxoglutarate:H+ symporter KgtP
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	catI	3-oxoadipate CoA-transferase subunit A (CatI)
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	catJ	3-oxoadipate CoA-transferase subunit B (CatJ)
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	fcbT1	tripartite 4-hydroxybenzoate transporter, substrate-binding component FcbT1
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	fcbT2	tripartite 4-hydroxybenzoate transporter, small DctQ-like component FcbT2
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	fcbT3	tripartite 4-hydroxybenzoate transporter, large permease subunit FcbT3
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	hcl	4-hydroxybenzoyl-CoA ligase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	hcrA	4-hydroxybenzoyl-CoA reductase, alpha subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	hcrB	4-hydroxybenzoyl-CoA reductase, beta subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	hcrC	4-hydroxybenzoyl-CoA reductase, gamma subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligA	protocatechuate 4,5-dioxygenase, alpha subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligB	protocatechuate 4,5-dioxygenase, beta subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligC	2-hydroxy-4-carboxymuconate-6-semialdehyde dehydrogenase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligI	2-pyrone-4,6-dicarboxylate hydrolase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligJ	4-carboxy-2-hydroxymuconate hydratase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligK	4-oxalocitramalate aldolase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	ligU	4-oxalomesaconate tautomerase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	mhpD	2-hydroxypentadienoate hydratase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	mhpE	4-hydroxy-2-oxovalerate aldolase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaB	3-carboxymuconate cycloisomerase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaC	4-carboxymuconolactone decarboxylase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaD	3-oxoadipate enol-lactone hydrolase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaF	succinyl-CoA:acetyl-CoA C-succinyltransferase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaG	protocatechuate 3,4-dioxygenase, beta subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaH	protocatechuate 3,4-dioxygenase, alpha subunit
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaI	3-oxoadipate CoA-transferase subunit A (PcaI)
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaJ	3-oxoadipate CoA-transferase subunit B (PcaJ)
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pcaK	4-hydroxybenzoate transporter pcaK
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	pobA	4-hydroxybenzoate 3-monooxygenase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	praA	protocatechuate 2,3-dioxygenase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	praB	2-hydroxymuconate 6-semialdehyde dehydrogenase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	praC	2-hydroxymuconate tautomerase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	praD	2-oxohex-3-enedioate decarboxylase
+4-hydroxybenzoate	4-hydroxybenzoate catabolism	xylF	2-hydroxymuconate semialdehyde hydrolase
+D-alanine	D-alanine catabolism	AZOBR_RS08235	D-alanine ABC transporter, permease component 1
+D-alanine	D-alanine catabolism	AZOBR_RS08240	D-alanine ABC transporter, permease component 2
+D-alanine	D-alanine catabolism	AZOBR_RS08245	D-alanine ABC transporter, ATPase component 1
+D-alanine	D-alanine catabolism	AZOBR_RS08250	D-alanine ABC transporter, ATPase component 2
+D-alanine	D-alanine catabolism	AZOBR_RS08260	D-alanine ABC transporter, substrate-binding component
+D-alanine	D-alanine catabolism	Pf6N2E2_5402	ABC transporter for D-Alanine, substrate-binding component
+D-alanine	D-alanine catabolism	Pf6N2E2_5403	ABC transporter for D-Alanine, permease component 2
+D-alanine	D-alanine catabolism	Pf6N2E2_5404	ABC transporter for D-Alanine, permease component 1
+D-alanine	D-alanine catabolism	Pf6N2E2_5405	ABC transporter for D-Alanine, ATPase component
+D-alanine	D-alanine catabolism	cycA	D-alanine:H+ symporter CycA
+D-alanine	D-alanine catabolism	dadA	D-alanine dehydrogenase
+D-alanine	D-alanine catabolism	mctP	D-alanine transporter MctP
+D-lactate	D-lactate catabolism	D-LDH	D-lactate dehydrogenase
+D-lactate	D-lactate catabolism	PGA1_c12640	D-lactate ABC transporter, ATP-binding component
+D-lactate	D-lactate catabolism	PGA1_c12650	D-lactate ABC transporter, permease component 1
+D-lactate	D-lactate catabolism	PGA1_c12660	D-lactate ABC transporter, permease component 2
+D-lactate	D-lactate catabolism	PGA1_c12670	D-lactate ABC transporter, substrate-binding component
+D-lactate	D-lactate catabolism	glcD	D-lactate dehydrogenase, FAD-linked subunit 1 (GlcD)
+D-lactate	D-lactate catabolism	glcE	D-lactate dehydrogenase, FAD-linked subunit 2 (GlcE)
+D-lactate	D-lactate catabolism	glcF	D-lactate dehydrogenase, FeS subunit GlcF
+D-lactate	D-lactate catabolism	larD	D,L-lactic acid transporter
+D-lactate	D-lactate catabolism	lctB	electron-transfer flavoprotein for D-lactate dehydrogenase (NAD+, ferredoxin), small subunit
+D-lactate	D-lactate catabolism	lctC	electron-transfer flavoprotein for D-lactate dehydrogenase (NAD+, ferredoxin), large subunit
+D-lactate	D-lactate catabolism	lctD	D-lactate dehydrogenase (NAD+, ferredoxin), lactate dehydrogenase component
+D-lactate	D-lactate catabolism	lctP	D-lactate:H+ symporter LctP or LidP
+D-lactate	D-lactate catabolism	mctP	D,L-lactic acid transporter
+D-serine	D-serine catabolism	cycA	D-serine:H+ symporter CycA
+D-serine	D-serine catabolism	dsdA	D-serine ammonia-lyase
+D-serine	D-serine catabolism	dsdX	D-serine transporter DsdX
+L-lactate	L-lactate catabolism	DVU3032	L-lactate dehydrogenase, LutC-like component
+L-lactate	L-lactate catabolism	DVU3033	L-lactate dehydrogenase, fused LutA/LutB components
+L-lactate	L-lactate catabolism	L-LDH	L-lactate dehydrogenase
+L-lactate	L-lactate catabolism	SfMCT	L-lactate transporter SfMCT
+L-lactate	L-lactate catabolism	Shew_2731	L-lactate:Na+ symporter, large component
+L-lactate	L-lactate catabolism	Shew_2732	L-lactate:Na+ symporter, small component
+L-lactate	L-lactate catabolism	larD	D,L-lactic acid transporter LarD
+L-lactate	L-lactate catabolism	lctO	L-lactate oxidase or 2-monooxygenase
+L-lactate	L-lactate catabolism	lctP	L-lactate:H+ symporter LctP or LidP
+L-lactate	L-lactate catabolism	lldE	L-lactate dehydrogenase, LldE subunit
+L-lactate	L-lactate catabolism	lldF	L-lactate dehydrogenase, LldF subunit
+L-lactate	L-lactate catabolism	lldG	L-lactate dehydrogenase, LldG subunit
+L-lactate	L-lactate catabolism	lutA	L-lactate dehydrogenase, LutA subunit
+L-lactate	L-lactate catabolism	lutB	L-lactate dehydrogenase, LutB subunit
+L-lactate	L-lactate catabolism	lutC	L-lactate dehydrogenase, LutC subunit
+L-lactate	L-lactate catabolism	mctP	D,L-lactic acid transporter MctP
+L-malate	L-malate catabolism	dctA	L-malate:H+ symporter DctA
+L-malate	L-malate catabolism	dctM	L-malate TRAP transporter, large permease component DctM
+L-malate	L-malate catabolism	dctP	L-malate TRAP transporter, substrate-binding component DctP
+L-malate	L-malate catabolism	dctQ	L-malate TRAP tranpsorter, small permease component DctQ
+L-malate	L-malate catabolism	mae1	L-malate:H+ symporter Mae1
+L-malate	L-malate catabolism	maeN	malate transporter maeN
+L-malate	L-malate catabolism	mleP	malate permease MleP
+L-malate	L-malate catabolism	sdlC	L-malate:Na+ symporter SdlC
+NAG	N-acetyl-D-glucosamine catabolism	SMc02869	N-acetylglucosamine ABC transporter, ATPase component
+NAG	N-acetyl-D-glucosamine catabolism	SMc02871	N-acetylglucosamine ABC transporter, permease component 2
+NAG	N-acetyl-D-glucosamine catabolism	SMc02872	N-acetylglucosamine ABC transporter, permease component 1
+NAG	N-acetyl-D-glucosamine catabolism	SMc02873	N-acetylglucosamine ABC transporter, substrate-binding component
+NAG	N-acetyl-D-glucosamine catabolism	crr	N-acetylglucosamine phosphotransferase system, EII-A component Crr
+NAG	N-acetyl-D-glucosamine catabolism	nag3	N-acetylglucosamine transporter nag3/nag4
+NAG	N-acetyl-D-glucosamine catabolism	nagA	N-acetylglucosamine 6-phosphate deacetylase
+NAG	N-acetyl-D-glucosamine catabolism	nagB	glucosamine 6-phosphate deaminase (isomerizing)
+NAG	N-acetyl-D-glucosamine catabolism	nagEIIA	N-acetylglucosamine phosphotransferase system, EII-A component (PtsG/YpqE/GamP)
+NAG	N-acetyl-D-glucosamine catabolism	nagEcb	N-acetylglucosamine phosphotransferase system, EII-CB components
+NAG	N-acetyl-D-glucosamine catabolism	nagEcba	N-acetylglucosamine phosphotransferase system, EII-CBA components
+NAG	N-acetyl-D-glucosamine catabolism	nagF	N-acetylglucosamine phosphotransferase system, E-I, Hpr, and EII-A components (NagF)
+NAG	N-acetyl-D-glucosamine catabolism	nagK	N-acetylglucosamine kinase
+NAG	N-acetyl-D-glucosamine catabolism	nagP	N-acetylglucosamine transporter NagP
+NAG	N-acetyl-D-glucosamine catabolism	nagPcb	N-acetylglucosamine phosphotransferase system, EII-CB component NagP
+NAG	N-acetyl-D-glucosamine catabolism	ngcE	N-acetylglucosamine ABC transporter, substrate-binding component (NgcE)
+NAG	N-acetyl-D-glucosamine catabolism	ngcF	N-acetylglucosamine ABC transporter, permease component 1 (NgcF)
+NAG	N-acetyl-D-glucosamine catabolism	ngcG	N-acetylglucosamine ABC transporter, permease component 2 (NgcG)
+NAG	N-acetyl-D-glucosamine catabolism	ngt1	N-acetylglucosamine:H+ symporter Ngt1
+NAG	N-acetyl-D-glucosamine catabolism	ptsB	N-acetylglucosamine-specific phosphotransferase system, EII-B component PtsB
+NAG	N-acetyl-D-glucosamine catabolism	ptsC	N-acetylglucosamine phosphotransferase system, EII-C component PtsC
+acetate	acetate catabolism	SLC5A8	actetate:Na+ symporter SLC5A8
+acetate	acetate catabolism	actP	cation/acetate symporter ActP
+acetate	acetate catabolism	ady2	acetate permease Ady2
+acetate	acetate catabolism	dctA	organic acid/proton symporter DctA
+acetate	acetate catabolism	deh	acetate/haloacid transporter
+acetate	acetate catabolism	patA	Acetate transporter PatA
+acetate	acetate catabolism	satP	acetate/proton symporter satP
+acetate	acetate catabolism	ybhL	acetate uptake transporter YbhL
+alanine	L-alanine catabolism	AAP1	L-alanine permease AAP1
+alanine	L-alanine catabolism	AAP24	L-alanine transporter AAP24
+alanine	L-alanine catabolism	SLC1A4	L-alanine symporter SLC1A4
+alanine	L-alanine catabolism	SLC38A3	L-alanine symporter SLC38A3
+alanine	L-alanine catabolism	TRIC	TRIC-type L-alanine transporter
+alanine	L-alanine catabolism	alsT	L-alanine symporter AlsT/DagA
+alanine	L-alanine catabolism	braC	L-alanine/L-serine/L-threonine ABC transporter, substrate binding protein (BraC/NatB)
+alanine	L-alanine catabolism	braD	L-alanine/L-serine/L-threonine ABC transporter, permease component 1 (BraD/NatD)
+alanine	L-alanine catabolism	braE	L-alanine/L-serine/L-threonine ABC transporter, permease component 2 (BraE/NatC)
+alanine	L-alanine catabolism	braF	L-alanine/L-serine/L-threonine ABC transporter, ATP-binding component 1 (BraF/NatA)
+alanine	L-alanine catabolism	braG	L-alanine/L-serine/L-threonine ABC transporter, ATP-binding component 2 (BraG/NatE)
+alanine	L-alanine catabolism	cycA	L-alanine symporter CycA
+alanine	L-alanine catabolism	metP	sodium-dependent methionine/alanine transporter, large subunit MetP
+alanine	L-alanine catabolism	metS	sodium-dependent methionine/alanine transporter, small subunit MetS
+alanine	L-alanine catabolism	snatA	L-alanine symporter SnatA
+arabinose	L-arabinose catabolism	BT0355	L-arabinose:Na+ symporter
+arabinose	L-arabinose catabolism	Echvi_1880	L-arabinose:Na+ symporter
+arabinose	L-arabinose catabolism	KDG-aldolase	2-dehydro-3-deoxy-L-arabinonate aldolase
+arabinose	L-arabinose catabolism	araA	L-arabinose isomerase
+arabinose	L-arabinose catabolism	araB	ribulokinase
+arabinose	L-arabinose catabolism	araD	L-ribulose-5-phosphate epimerase
+arabinose	L-arabinose catabolism	araE	L-arabinose:H+ symporter
+arabinose	L-arabinose catabolism	araF	L-arabinose ABC transporter, substrate-binding component AraF
+arabinose	L-arabinose catabolism	araG	L-arabinose ABC transporter, ATPase component AraG
+arabinose	L-arabinose catabolism	araH	L-arabinose ABC transporter, permease component AraH
+arabinose	L-arabinose catabolism	araS	L-arabinose ABC transporter, substrate-binding component AraS
+arabinose	L-arabinose catabolism	araT	L-arabinose ABC transporter, permease component 1 (AraT)
+arabinose	L-arabinose catabolism	araU	L-arabinose ABC transporter, permease component 2 (AraU)
+arabinose	L-arabinose catabolism	araUsh	L-arabinose ABC transporter, substrate-binding component AraU(Sh)
+arabinose	L-arabinose catabolism	araV	L-arabinose ABC transporter, ATPase component AraV
+arabinose	L-arabinose catabolism	araVsh	L-arabinose ABC transporter, ATPase component AraV(Sh)
+arabinose	L-arabinose catabolism	araWsh	L-arabinose ABC transporter, permease component 1 AraW(Sh)
+arabinose	L-arabinose catabolism	araZsh	L-arabinose ABC transporter, permease component 2 AraZ(Sh)
+arabinose	L-arabinose catabolism	chvE	L-arabinose ABC transporter, substrate-binding component ChvE
+arabinose	L-arabinose catabolism	gguA	L-arabinose ABC transporter, ATPase component GguA
+arabinose	L-arabinose catabolism	gguB	L-arabinose ABC transporter, permease component GguB
+arabinose	L-arabinose catabolism	xacB	L-arabinose 1-dehydrogenase
+arabinose	L-arabinose catabolism	xacC	L-arabinono-1,4-lactonase
+arabinose	L-arabinose catabolism	xacD	L-arabinonate dehydratase
+arabinose	L-arabinose catabolism	xacE	2-dehydro-3-deoxy-L-arabinonate dehydratase
+arabinose	L-arabinose catabolism	xacF	alpha-ketoglutarate semialdehyde dehydrogenase
+arabinose	L-arabinose catabolism	xacG	L-arabinose ABC transporter, substrate-binding component XacG
+arabinose	L-arabinose catabolism	xacH	L-arabinose ABC transporter, permease component 1 (XacH)
+arabinose	L-arabinose catabolism	xacI	L-arabinose ABC transporter, permease component 2 (XacI)
+arabinose	L-arabinose catabolism	xacJ	L-arabinose ABC transporter, ATPase component 1 (XacJ)
+arabinose	L-arabinose catabolism	xacK	L-arabinose ABC transporter, ATPase component 2 (XacK)
+arabinose	L-arabinose catabolism	xylFsa	L-arabinose ABC transporter, substrate-binding component XylF
+arabinose	L-arabinose catabolism	xylGsa	L-arabinose ABC transporter, ATPase component XylG
+arabinose	L-arabinose catabolism	xylHsa	L-arabinose ABC transporter, permease component XylH
+arginine	L-arginine catabolism	AAP3	L-arginine transporter AAP3
+arginine	L-arginine catabolism	CAT1	L-arginine transporter CAT1
+arginine	L-arginine catabolism	Can1	L-arginine transporter Can1
+arginine	L-arginine catabolism	PRO3	pyrroline-5-carboxylate reductase
+arginine	L-arginine catabolism	adiA	arginine decarboxylase (AdiA/SpeA)
+arginine	L-arginine catabolism	aguA	agmatine deiminase
+arginine	L-arginine catabolism	aguB	N-carbamoylputrescine hydrolase
+arginine	L-arginine catabolism	arcA	arginine deiminase
+arginine	L-arginine catabolism	arcB	ornithine carbamoyltransferase
+arginine	L-arginine catabolism	arcC	carbamate kinase
+arginine	L-arginine catabolism	arg-monooxygenase	arginine 2-monooxygenase
+arginine	L-arginine catabolism	aroD	L-arginine oxidase
+arginine	L-arginine catabolism	artJ	L-arginine ABC transporter, periplasmic substrate-binding component ArtJ/HisJ/ArtI/AotJ/ArgT
+arginine	L-arginine catabolism	artM	L-arginine ABC transporter, permease component 1 (ArtM/HisM/AotM)
+arginine	L-arginine catabolism	artP	L-arginine ABC transporter, ATPase component ArtP/HisP/AotP/BgtA
+arginine	L-arginine catabolism	artQ	L-arginine ABC transporter, permease component 2 (ArtQ/HisQ/AotQ)
+arginine	L-arginine catabolism	aruF	ornithine/arginine N-succinyltransferase subunit AruAI (AruF)
+arginine	L-arginine catabolism	aruG	ornithine/arginine N-succinyltransferase subunit AruAII (AruG)
+arginine	L-arginine catabolism	aruH	L-arginine:pyruvate transaminase
+arginine	L-arginine catabolism	aruI	2-ketoarginine decarboxylase
+arginine	L-arginine catabolism	astA	arginine N-succinyltransferase
+arginine	L-arginine catabolism	astB	N-succinylarginine dihydrolase
+arginine	L-arginine catabolism	astC	succinylornithine transaminase
+arginine	L-arginine catabolism	astD	succinylglutamate semialdehyde dehydrogenase
+arginine	L-arginine catabolism	astE	succinylglutamate desuccinylase
+arginine	L-arginine catabolism	bgtB	L-arginine ABC transporter, fused substrate-binding and permease components (BgtB/BgtAB)
+arginine	L-arginine catabolism	gbamidase	guanidinobutyramidase
+arginine	L-arginine catabolism	gbuA	guanidinobutyrase
+arginine	L-arginine catabolism	kauB	4-guanidinobutyraldehyde dehydrogenase
+arginine	L-arginine catabolism	ocd	ornithine cyclodeaminase
+arginine	L-arginine catabolism	odc	L-ornithine decarboxylase
+arginine	L-arginine catabolism	oraE	D-ornithine 4,5-aminomutase, beta (E) subunit
+arginine	L-arginine catabolism	oraS	D-ornithine 4,5-aminomutase, alpha (S) subunit
+arginine	L-arginine catabolism	ord	2,4-diaminopentanoate dehydrogenase
+arginine	L-arginine catabolism	orr	ornithine racemase
+arginine	L-arginine catabolism	ortA	2-amino-4-oxopentanoate thiolase, alpha subunit
+arginine	L-arginine catabolism	ortB	2-amino-4-oxopentanoate thiolase, beta subunit
+arginine	L-arginine catabolism	rocA	1-pyrroline-5-carboxylate dehydrogenase
+arginine	L-arginine catabolism	rocD	ornithine aminotransferase
+arginine	L-arginine catabolism	rocE	L-arginine permease
+arginine	L-arginine catabolism	rocF	arginase
+arginine	L-arginine catabolism	speB	agmatinase
+asparagine	L-asparagine catabolism	AGP1	L-asparagine permease AGP1
+asparagine	L-asparagine catabolism	agcS	Probable asparagine:Na+ symporter AgcS
+asparagine	L-asparagine catabolism	ans	asparaginase
+asparagine	L-asparagine catabolism	ansP	L-asparagine permease AnsP
+asparagine	L-asparagine catabolism	glnP	L-asparagine ABC transporter, fused permease and substrate-binding components GlnP
+asparagine	L-asparagine catabolism	glnQ	L-asparagine ABC transporter, ATPase component GlnQ
+asparagine	L-asparagine catabolism	yhiT	probable L-asparagine transporter YhiT
+aspartate	L-aspartate catabolism	BPHYT_RS17540	aspartate:H+ (or asparagine) symporter
+aspartate	L-aspartate catabolism	SLC7A13	sodium-independent aspartate transporter
+aspartate	L-aspartate catabolism	aatJ	aspartate/asparagine ABC transporter, substrate-binding component AatJ
+aspartate	L-aspartate catabolism	aatM	aspartate/asparagine ABC transporter, permease component 2 (AatM)
+aspartate	L-aspartate catabolism	aatP	aspartate/asparagine ABC transporter, ATPase component
+aspartate	L-aspartate catabolism	aatQ	aspartate/asparagine ABC transporter, permease component 1 (AatQ)
+aspartate	L-aspartate catabolism	acaP	aspartate permease AcaP
+aspartate	L-aspartate catabolism	bgtA	aspartate ABC transporter, ATPase component BgtA
+aspartate	L-aspartate catabolism	bgtB'	aspartate ABC transporter, permease component 1 (BgtB)
+aspartate	L-aspartate catabolism	bztA	aspartate/asparagine ABC transporter, substrate-binding component BztA
+aspartate	L-aspartate catabolism	bztB	aspartate/asparagine ABC transporter, permease component 1 (BztB)
+aspartate	L-aspartate catabolism	bztC	aspartate/asparagine ABC transporter, permease component 2 (BztC)
+aspartate	L-aspartate catabolism	bztD	aspartate/asparagine ABC transporter, ATPase component (BztD)
+aspartate	L-aspartate catabolism	dauA	dicarboxylic acid transporter DauA
+aspartate	L-aspartate catabolism	glt	aspartate:proton symporter Glt
+aspartate	L-aspartate catabolism	natF	aspartate ABC transporter, substrate-binding component NatF
+aspartate	L-aspartate catabolism	natG	aspartate ABC transporter, permease component 1 (NatG)
+aspartate	L-aspartate catabolism	natH	aspartate ABC transporter, permease component 2 (NatH)
+aspartate	L-aspartate catabolism	peb1A	aspartate ABC transporter, perisplasmic substrate-binding component Peb1A
+aspartate	L-aspartate catabolism	peb1B	aspartate ABC transporter, permease component 1 (Peb1B)
+aspartate	L-aspartate catabolism	peb1C	aspartate ABC transporter, ATPase component Peb1C
+aspartate	L-aspartate catabolism	peb1D	aspartate ABC transporter, permease component 2 (Peb1D)
+aspartate	L-aspartate catabolism	yveA	aspartate:proton symporter YveA
+cellobiose	D-cellobiose catabolism	SMc04256	cellobiose ABC transporter, ATPase component
+cellobiose	D-cellobiose catabolism	SMc04257	cellobiose ABC transporter, permease component 1
+cellobiose	D-cellobiose catabolism	SMc04258	cellobiose ABC transporter, permease component 2
+cellobiose	D-cellobiose catabolism	SMc04259	cellobiose ABC transporter, substrate-binding protein
+cellobiose	D-cellobiose catabolism	TM0027	cellobiose ABC transporter, ATPase component 2
+cellobiose	D-cellobiose catabolism	TM0028	cellobiose ABC transporter, ATPase component 1
+cellobiose	D-cellobiose catabolism	TM0029	cellobiose ABC transporter, permease component 2
+cellobiose	D-cellobiose catabolism	TM0030	cellobiose ABC transporter, permease component 1
+cellobiose	D-cellobiose catabolism	TM0031	cellobiose ABC transporter, substrate-binding component
+cellobiose	D-cellobiose catabolism	ascB	6-phosphocellobiose hydrolase
+cellobiose	D-cellobiose catabolism	bgl	cellobiase
+cellobiose	D-cellobiose catabolism	bglG	cellobiose PTS system, EII-BC or EII-BCA components
+cellobiose	D-cellobiose catabolism	bglT	cellobiose transporter BglT
+cellobiose	D-cellobiose catabolism	cbp	cellobiose phosphorylase
+cellobiose	D-cellobiose catabolism	cbpB	cellobiose ABC transporter, substrate-binding component CpbB
+cellobiose	D-cellobiose catabolism	cbpC	cellobiose ABC transporter, substrate-binding component CbpC
+cellobiose	D-cellobiose catabolism	cbtA	cellobiose ABC transporter, substrate-binding component CbtA
+cellobiose	D-cellobiose catabolism	cbtB	cellobiose ABC transporter, permease component 1 (CbtB)
+cellobiose	D-cellobiose catabolism	cbtC	cellobiose ABC transporter, permease component 2 (CbtC)
+cellobiose	D-cellobiose catabolism	cbtD	cellobiose ABC transporter, ATPase component 1 (CbtD)
+cellobiose	D-cellobiose catabolism	cbtF	cellobiose ABC transporter, ATPase component 2 (CbtF)
+cellobiose	D-cellobiose catabolism	cdt	cellobiose transporter cdt-1/cdt-2
+cellobiose	D-cellobiose catabolism	cebE	cellobiose ABC transporter, substrate-binding component CebE
+cellobiose	D-cellobiose catabolism	cebF	cellobiose ABC transporter, permease component 1 (CebF)
+cellobiose	D-cellobiose catabolism	cebG	cellobiose ABC transporter, permease component 2 (CebG)
+cellobiose	D-cellobiose catabolism	celEIIA	cellobiose PTS system, EII-A component
+cellobiose	D-cellobiose catabolism	celEIIB	cellobiose PTS system, EII-B component
+cellobiose	D-cellobiose catabolism	celEIIC	cellobiose PTS system, EII-C component
+cellobiose	D-cellobiose catabolism	msdB1	cellobiose ABC transporter, permease component 1 (MsdB1)
+cellobiose	D-cellobiose catabolism	msdB2	cellobiose ABC transporter, permease component 2 (MsdB2)
+cellobiose	D-cellobiose catabolism	msdC1	cellobiose ABC transporter, permease component 1 (MsdC1)
+cellobiose	D-cellobiose catabolism	msdC2	cellobiose ABC transporter, permease component 1 (MsdC2)
+cellobiose	D-cellobiose catabolism	msiK	cellobiose ABC transporter, ATPase component
+citrate	citrate catabolism	SLC13A5	citrate:Na+ symporter
+citrate	citrate catabolism	acn	aconitase
+citrate	citrate catabolism	cimH	citrate:H+ symporter CimH
+citrate	citrate catabolism	cit1	citrate:H+ symporter Cit1
+citrate	citrate catabolism	citA	citrate:H+ symporter CitA
+citrate	citrate catabolism	citD	citrate lyase, acyl carrier component CitD
+citrate	citrate catabolism	citE	citrate lyase, citryl-ACP lyase component CitE
+citrate	citrate catabolism	citF	citrate lyase, citrate-ACP transferase component CitF
+citrate	citrate catabolism	citM	citrate:cation:H+ symporter CitM
+citrate	citrate catabolism	citS	citrate:Na+ symporter CitS
+citrate	citrate catabolism	citT	citrate:succinate antiporter CitT
+citrate	citrate catabolism	citW	citrate exchange transporter CitW (with lactate or acetate)
+citrate	citrate catabolism	fecB	ferric citrate ABC transporter, substrate-binding component FecB
+citrate	citrate catabolism	fecC	ferric citrate ABC transporter, permease component 1 (FecC)
+citrate	citrate catabolism	fecD	ferric citrate ABC transporter, permease component 2 (FecD)
+citrate	citrate catabolism	fecE	ferric citrate ABC transporter, ATPase component FecE
+citrate	citrate catabolism	icd	isocitrate dehydrogenase
+citrate	citrate catabolism	tctA	citrate/Na+ symporter, large transmembrane component TctA
+citrate	citrate catabolism	tctB	citrate/Na+ symporter, small transmembrane component TctB
+citrate	citrate catabolism	tctC	citrate/Na+ symporter, substrate-binding component TctC
+citrulline	L-citrulline catabolism	AO353_03040	ABC transporter for L-Citrulline, ATPase component
+citrulline	L-citrulline catabolism	AO353_03045	ABC transporter for L-Citrulline, permease component 2
+citrulline	L-citrulline catabolism	AO353_03050	ABC transporter for L-Citrulline, permease component 1
+citrulline	L-citrulline catabolism	AO353_03055	ABC transporter for L-Citrulline, periplasmic substrate-binding component
+citrulline	L-citrulline catabolism	PS417_17590	ABC transporter for L-Citrulline, periplasmic substrate-binding component
+citrulline	L-citrulline catabolism	PS417_17595	ABC transporter for L-Citrulline, permease component 1
+citrulline	L-citrulline catabolism	PS417_17600	ABC transporter for L-Citrulline, permease component 2
+citrulline	L-citrulline catabolism	PS417_17605	ABC transporter for L-Citrulline, ATPase component
+citrulline	L-citrulline catabolism	citrullinase	putative citrullinase
+deoxyinosine	2'-deoxyinosine catabolism	H281DRAFT_01112	deoxynucleoside transporter, permease component 2
+deoxyinosine	2'-deoxyinosine catabolism	H281DRAFT_01113	deoxynucleoside transporter, ATPase component
+deoxyinosine	2'-deoxyinosine catabolism	H281DRAFT_01114	deoxynucleoside transporter, substrate-binding component
+deoxyinosine	2'-deoxyinosine catabolism	H281DRAFT_01115	deoxynucleoside transporter, permease component 1
+deoxyinosine	2'-deoxyinosine catabolism	bmpA	deoxyinosine ABC transporter, substrate-binding component
+deoxyinosine	2'-deoxyinosine catabolism	deoB	phosphopentomutase
+deoxyinosine	2'-deoxyinosine catabolism	deoD	deoxyinosine phosphorylase
+deoxyinosine	2'-deoxyinosine catabolism	nupA	deoxyinosine ABC transporter, ATPase component
+deoxyinosine	2'-deoxyinosine catabolism	nupB	deoxyinosine ABC transporter, permease component 1
+deoxyinosine	2'-deoxyinosine catabolism	nupC	deoxyinosine:H+ symporter NupC
+deoxyinosine	2'-deoxyinosine catabolism	nupC'	deoxyinosine ABC transporter, permease component 2
+deoxyinosine	2'-deoxyinosine catabolism	nupG	deoxyinosine permease NupG/XapB
+deoxyribonate	2-deoxy-D-ribonate catabolism	deoxyribonate-dehyd	2-deoxy-D-ribonate 3-dehydrogenase
+deoxyribonate	2-deoxy-D-ribonate catabolism	deoxyribonate-transport	2-deoxy-D-ribonate transporter
+deoxyribonate	2-deoxy-D-ribonate catabolism	garK	glycerate 2-kinase
+deoxyribonate	2-deoxy-D-ribonate catabolism	ketodeoxyribonate-cleavage	2-deoxy-3-keto-D-ribonate cleavage enzyme
+deoxyribose	2-deoxy-D-ribose catabolism	deoC	deoxyribose-5-phosphate aldolase
+deoxyribose	2-deoxy-D-ribose catabolism	deoK	deoxyribokinase
+deoxyribose	2-deoxy-D-ribose catabolism	deoP	deoxyribose transporter
+deoxyribose	2-deoxy-D-ribose catabolism	drdehyd-alpha	2-deoxy-D-ribose dehydrogenase, alpha subunit
+deoxyribose	2-deoxy-D-ribose catabolism	drdehyd-beta	2-deoxy-D-ribose dehydrogenase, beta subunit
+deoxyribose	2-deoxy-D-ribose catabolism	drdehyd-cytc	2-deoxyribose-D dehydrogenase, cytochrome c component
+ethanol	ethanol catabolism	ackA	acetate kinase
+ethanol	ethanol catabolism	acs	acetyl-CoA synthetase, AMP-forming
+ethanol	ethanol catabolism	adh	acetaldehyde dehydrogenase (not acylating)
+ethanol	ethanol catabolism	adhAqn	ethanol dehydrogenase (quinone), subunit I
+ethanol	ethanol catabolism	adhBqn	ethanol dehydrogenase (quinone), subunit II
+ethanol	ethanol catabolism	adhSqn	ethanol dehydrogenase (quinone), subunit III
+ethanol	ethanol catabolism	ald-dh-CoA	acetaldehyde dehydrogenase, acylating
+ethanol	ethanol catabolism	etoh-dh-c	ethanol dehydrogenase (cytochrome c)
+ethanol	ethanol catabolism	etoh-dh-nad	ethanol dehydrogenase (NAD(P))
+ethanol	ethanol catabolism	pta	phosphate acetyltransferase
+fructose	D-fructose catabolism	1pfk	1-phosphofructokinase
+fructose	D-fructose catabolism	BT1758	fructose transporter
+fructose	D-fructose catabolism	STP6	sugar transport protein 6
+fructose	D-fructose catabolism	Slc2a5	fructose:H+ symporter
+fructose	D-fructose catabolism	THT2A	fructose THT2A
+fructose	D-fructose catabolism	araS	fructose ABC transporter, substrate-binding component AraS
+fructose	D-fructose catabolism	araT	fructose ABC transporter, permease component 2 (AraT)
+fructose	D-fructose catabolism	araU	fructose ABC transporter, permease component 1 (AraU)
+fructose	D-fructose catabolism	araV	fructose ABC transporter, ATPase component AraV
+fructose	D-fructose catabolism	fba	fructose 1,6-bisphosphate aldolase
+fructose	D-fructose catabolism	ffz	fructose facilitator (uniporter)
+fructose	D-fructose catabolism	frcA	fructose ABC transporter, ATPase component FrcA
+fructose	D-fructose catabolism	frcB	fructose ABC transporter, substrate-binding component FrcB
+fructose	D-fructose catabolism	frcC	fructose ABC transporter, permease component FrcC
+fructose	D-fructose catabolism	frt1	fructose:H+ symporter Frt1
+fructose	D-fructose catabolism	fruA	fructose-specific PTS system (fructose 1-phosphate forming), EII-B'BC components
+fructose	D-fructose catabolism	fruB	fructose-specific PTS system (fructose 1-phosphate forming), Hpr and EII-A components
+fructose	D-fructose catabolism	fruD	fructose-specific PTS system (fructose 1-phosphate forming), EII-A component
+fructose	D-fructose catabolism	fruE	fructose ABC transporter, substrate-binding component FruE
+fructose	D-fructose catabolism	fruF	fructose ABC transporter, permease component 1 (FruF)
+fructose	D-fructose catabolism	fruG	fructose ABC transporter, permease component 2 (FruG)
+fructose	D-fructose catabolism	fruI	fructose-specific PTS system (fructose 1-phosphate forming), EI, Hpr, and EII-A components
+fructose	D-fructose catabolism	fruII-A	fructose-specific PTS system (fructose 1-phosphate forming), EII-A component
+fructose	D-fructose catabolism	fruII-ABC	fructose-specific PTS system (fructose 1-phosphate forming), EII-ABC components
+fructose	D-fructose catabolism	fruII-B	fructose-specific PTS system (fructose 1-phosphate forming), EII-B component
+fructose	D-fructose catabolism	fruII-C	fructose-specific PTS system (fructose 1-phosphate forming), EII-C component
+fructose	D-fructose catabolism	fruK	fructose ABC transporter, ATPase component FruK
+fructose	D-fructose catabolism	fruP	fructose porter FruP
+fructose	D-fructose catabolism	ght6	high-affinity fructose transporter ght6
+fructose	D-fructose catabolism	glcP	fructose:H+ symporter GlcP
+fructose	D-fructose catabolism	levD	fructose PTS system (fructose 6-phosphate forming), EII-A component
+fructose	D-fructose catabolism	levDE	fructose PTS system (fructose 6-phosphate forming), EII-AB component
+fructose	D-fructose catabolism	levE	fructose PTS system (fructose 6-phosphate forming), EII-B component
+fructose	D-fructose catabolism	levF	fructose PTS system (fructose 6-phosphate forming), EII-C component
+fructose	D-fructose catabolism	levG	fructose PTS system (fructose 6-phosphate forming), EII-D component
+fructose	D-fructose catabolism	scrK	fructokinase
+fructose	D-fructose catabolism	tpi	triose-phosphate isomerase
+fucose	L-fucose catabolism	BPHYT_RS34240	ABC transporter for L-fucose, permease component
+fucose	L-fucose catabolism	BPHYT_RS34245	ABC transporter for L-fucose, ATPase component
+fucose	L-fucose catabolism	BPHYT_RS34250	ABC transporter for L-fucose, substrate-binding component
+fucose	L-fucose catabolism	HSERO_RS05250	ABC transporter for L-fucose, ATPase component
+fucose	L-fucose catabolism	HSERO_RS05255	ABC transporter for L-fucose, permease component
+fucose	L-fucose catabolism	HSERO_RS05260	ABC transporter for L-fucose, substrate-binding component
+fucose	L-fucose catabolism	KDF-hydrolase	2,4-diketo-3-deoxy-L-fuconate hydrolase
+fucose	L-fucose catabolism	SM_b21103	ABC transporter for L-fucose, substrate-binding component
+fucose	L-fucose catabolism	SM_b21104	ABC transporter for L-fucose, permease component 1
+fucose	L-fucose catabolism	SM_b21105	ABC transporter for L-fucose, permease component 2
+fucose	L-fucose catabolism	SM_b21106	ABC transporter for L-fucose, ATPase component
+fucose	L-fucose catabolism	fdh	L-fucose 1-dehydrogenase
+fucose	L-fucose catabolism	fucA	L-fuculose-phosphate aldolase FucA
+fucose	L-fucose catabolism	fucD	L-fuconate dehydratase
+fucose	L-fucose catabolism	fucDH	2-keto-3-deoxy-L-fuconate 4-dehydrogenase
+fucose	L-fucose catabolism	fucI	L-fucose isomerase FucI
+fucose	L-fucose catabolism	fucK	L-fuculose kinase FucK
+fucose	L-fucose catabolism	fucP	L-fucose:H+ symporter FucP
+fucose	L-fucose catabolism	fucU	L-fucose mutarotase FucU
+fucose	L-fucose catabolism	fuconolactonase	L-fucono-1,5-lactonase
+fumarate	fumarate catabolism	SLC26dg	fumarate transporter SLC26dg
+fumarate	fumarate catabolism	dauA	fumarate transporter DauA
+fumarate	fumarate catabolism	dctA	fumarate:H+ symporter DctA
+fumarate	fumarate catabolism	dctM	fumarate TRAP transporter, large permease component DctM
+fumarate	fumarate catabolism	dctP	fumarate TRAP transporter, substrate-binding component DctP
+fumarate	fumarate catabolism	dctQ	fumarate TRAP transporter, small permease component DctQ
+fumarate	fumarate catabolism	sdcL	fumarate:Na+ symporter SdcL
+galactose	D-galactose catabolism	BPHYT_RS16925	galactose ABC transporter, permease component
+galactose	D-galactose catabolism	BPHYT_RS16930	galactose ABC transporter, ATPase component
+galactose	D-galactose catabolism	BPHYT_RS16935	galactose ABC transporter, substrate-binding component
+galactose	D-galactose catabolism	CeSWEET1	galactose transporter
+galactose	D-galactose catabolism	HP1174	Na+-dependent galactose transporter
+galactose	D-galactose catabolism	MST1	galactose:H+ symporter
+galactose	D-galactose catabolism	PfGW456L13_1894	ABC transporter for D-Galactose and D-Glucose, periplasmic substrate-binding component
+galactose	D-galactose catabolism	PfGW456L13_1895	ABC transporter for D-Galactose and D-Glucose, permease component 1
+galactose	D-galactose catabolism	PfGW456L13_1896	ABC transporter for D-Galactose and D-Glucose, permease component 2
+galactose	D-galactose catabolism	PfGW456L13_1897	ABC transporter for D-Galactose and D-Glucose, ATPase component
+galactose	D-galactose catabolism	SGLT1	sodium/galactose cotransporter
+galactose	D-galactose catabolism	chvE	galactose ABC transporter, substrate-binding component ChvE
+galactose	D-galactose catabolism	dgoA	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+galactose	D-galactose catabolism	dgoD	D-galactonate dehydratase
+galactose	D-galactose catabolism	dgoK	2-dehydro-3-deoxygalactonokinase
+galactose	D-galactose catabolism	gal2	galactose transporter
+galactose	D-galactose catabolism	galE	UDP-glucose 4-epimerase
+galactose	D-galactose catabolism	galK	galactokinase (-1-phosphate forming)
+galactose	D-galactose catabolism	galP	galactose:H+ symporter GalP
+galactose	D-galactose catabolism	galT	UDP-glucose:alpha-D-galactose-1-phosphate uridylyltransferase
+galactose	D-galactose catabolism	galactonolactonase	galactonolactonase (either 1,4- or 1,5-lactone)
+galactose	D-galactose catabolism	galdh	D-galactose 1-dehydrogenase (forming 1,4- or 1,5-lactones)
+galactose	D-galactose catabolism	gatY	D-tagatose-1,6-bisphosphate aldolase, catalytic subunit (GatY/KbaY)
+galactose	D-galactose catabolism	gatZ	D-tagatose-1,6-bisphosphate aldolase, chaperone subunit (GatZ/KbaZ)
+galactose	D-galactose catabolism	gguA	galactose ABC transporter, ATPase component GguA
+galactose	D-galactose catabolism	gguB	galactose ABC transporter, permease component GguB
+galactose	D-galactose catabolism	glcS	galactose ABC transporter, substrate-binding component GlcS
+galactose	D-galactose catabolism	glcT	galactose ABC transporter, permease component 1 (GlcT)
+galactose	D-galactose catabolism	glcU	galactose ABC transporter, permease component 2 (GlcU)
+galactose	D-galactose catabolism	glcV	galactose ABC transporter, ATPase component (GlcV)
+galactose	D-galactose catabolism	lacA	galactose-6-phosphate isomerase, lacA subunit
+galactose	D-galactose catabolism	lacB	galactose-6-phosphate isomerase, lacB subunit
+galactose	D-galactose catabolism	lacC	D-tagatose-6-phosphate kinase
+galactose	D-galactose catabolism	lacD	D-tagatose-1,6-bisphosphate aldolase (monomeric)
+galactose	D-galactose catabolism	lacP	galactose:H+ symporter
+galactose	D-galactose catabolism	mglA	galactose ABC transporter, ATPase component MglA
+galactose	D-galactose catabolism	mglB	galactose ABC transporter, substrate-binding component MglB
+galactose	D-galactose catabolism	mglC	galactose ABC transporter, permease component MglC
+galactose	D-galactose catabolism	pgmA	alpha-phosphoglucomutase
+galactose	D-galactose catabolism	ptcA	galactose PTS system, EIIA component
+galactose	D-galactose catabolism	ptcB	galactose PTS system, EIIB component
+galactose	D-galactose catabolism	ptcEIIC	galactose PTS system, EIIC component
+galactose	D-galactose catabolism	sglS	sodium/galactose cotransporter
+galactose	D-galactose catabolism	yjtF	galactose ABC transporter, permease component 2
+galactose	D-galactose catabolism	ytfQ	galactose ABC transporter, substrate-binding component
+galactose	D-galactose catabolism	ytfR	galactose ABC transporter, ATPase component
+galactose	D-galactose catabolism	ytfT	galactose ABC transporter, permease component 1
+galacturonate	D-galacturonate catabolism	PS417_04205	D-galacturonate transporter
+galacturonate	D-galacturonate catabolism	exuT	D-galacturonate transporter ExuT
+galacturonate	D-galacturonate catabolism	garD	meso-galactarate dehydratase (L-threo-forming) GarD
+galacturonate	D-galacturonate catabolism	gatA	D-galacturonate transporter gatA
+galacturonate	D-galacturonate catabolism	gci	D-galactarolactone cycloisomerase
+galacturonate	D-galacturonate catabolism	gli	D-galactarolactone isomerase
+galacturonate	D-galacturonate catabolism	kdgD	5-dehydro-4-deoxyglucarate dehydratase
+galacturonate	D-galacturonate catabolism	udh	D-galacturonate dehydrogenase
+galacturonate	D-galacturonate catabolism	uxaA	D-altronate dehydratase
+galacturonate	D-galacturonate catabolism	uxaB	tagaturonate reductase
+galacturonate	D-galacturonate catabolism	uxaC	D-galacturonate isomerase
+galacturonate	D-galacturonate catabolism	uxuL	D-galactaro-1,5-lactonase (UxuL or UxuF)
+gluconate	D-gluconate catabolism	ght3	gluconate transporter Ght3
+gluconate	D-gluconate catabolism	gnd	6-phosphogluconate dehydrogenase, decarboxylating
+gluconate	D-gluconate catabolism	gntA	gluconate TRAP transporter, small permease component
+gluconate	D-gluconate catabolism	gntB	gluconate TRAP transporter, large permease component
+gluconate	D-gluconate catabolism	gntC	gluconate TRAP transporter, periplasmic solute-binding component
+gluconate	D-gluconate catabolism	gntEIIA	gluconate PTS system, IIA component
+gluconate	D-gluconate catabolism	gntEIIB	gluconate PTS system, IIB component
+gluconate	D-gluconate catabolism	gntEIIC	gluconate PTS system, IIC component
+gluconate	D-gluconate catabolism	gntEIID	gluconate PTS system, IID component
+gluconate	D-gluconate catabolism	gntK	D-gluconate kinase
+gluconate	D-gluconate catabolism	gntT	gluconate:H+ symporter GntT
+glucosamine	D-glucosamine (chitosamine) catabolism	AO353_21710	glucosaminate ABC transporter, substrate-binding component
+glucosamine	D-glucosamine (chitosamine) catabolism	AO353_21715	glucosaminate ABC transporter, permease component 1
+glucosamine	D-glucosamine (chitosamine) catabolism	AO353_21720	glucosaminate ABC transporter, permease component 2
+glucosamine	D-glucosamine (chitosamine) catabolism	AO353_21725	glucosaminate ABC transporter, ATPase component
+glucosamine	D-glucosamine (chitosamine) catabolism	SLC2A2	glucosamine transporter SLC2A2
+glucosamine	D-glucosamine (chitosamine) catabolism	SM_b21216	ABC transporter for D-Glucosamine, ATPase component
+glucosamine	D-glucosamine (chitosamine) catabolism	SM_b21219	ABC transporter for D-Glucosamine, permease component 1
+glucosamine	D-glucosamine (chitosamine) catabolism	SM_b21220	ABC transporter for D-Glucosamine, permease component 2
+glucosamine	D-glucosamine (chitosamine) catabolism	SM_b21221	ABC transporter for D-Glucosamine, substrate-binding protein
+glucosamine	D-glucosamine (chitosamine) catabolism	gamP	glucosamine PTS system, EII-CBA components (GamP/NagE)
+glucosamine	D-glucosamine (chitosamine) catabolism	glc-kinase	glucosamine kinase
+glucosamine	D-glucosamine (chitosamine) catabolism	glucosaminate-lyase	glucosaminate ammonia-lyase
+glucosamine	D-glucosamine (chitosamine) catabolism	kdgA	2-keto-3-deoxygluconate-6-phosphate aldolase    EC:4.1.2.14
+glucosamine	D-glucosamine (chitosamine) catabolism	kdgK	2-keto-3-deoxygluconate kinase
+glucosamine	D-glucosamine (chitosamine) catabolism	manX	glucosamine PTS system, EII-AB component ManX
+glucosamine	D-glucosamine (chitosamine) catabolism	manY	glucosamine PTS system, EII-C component ManY
+glucosamine	D-glucosamine (chitosamine) catabolism	manZ	glucosamine PTS system, EII-D component ManZ
+glucosamine	D-glucosamine (chitosamine) catabolism	nagX	transmembrane glucosamine N-acetyltransferase NagX
+glucose	D-glucose catabolism	MFS-glucose	glucose transporter, MFS superfamily
+glucose	D-glucose catabolism	PAST-A	proton-associated sugar transporter A
+glucose	D-glucose catabolism	SSS-glucose	Sodium/glucose cotransporter
+glucose	D-glucose catabolism	SWEET1	bidirectional sugar transporter SWEET1
+glucose	D-glucose catabolism	SemiSWEET	Sugar transporter SemiSWEET
+glucose	D-glucose catabolism	aglE'	glucose ABC transporter, substrate-binding component (AglE)
+glucose	D-glucose catabolism	aglF'	glucose ABC transporter, permease component 1 (AglF)
+glucose	D-glucose catabolism	aglG'	glucose ABC transporter, permease component 2 (AglG)
+glucose	D-glucose catabolism	aglK'	glucose ABC transporter, ATPase component (AglK)
+glucose	D-glucose catabolism	bglF	glucose PTS, enzyme II (BCA components, BglF)
+glucose	D-glucose catabolism	crr	glucose PTS, enzyme IIA
+glucose	D-glucose catabolism	eda	2-keto-3-deoxygluconate 6-phosphate aldolase
+glucose	D-glucose catabolism	edd	phosphogluconate dehydratase
+glucose	D-glucose catabolism	gadh1	gluconate 2-dehydrogenase flavoprotein subunit
+glucose	D-glucose catabolism	gadh2	gluconate 2-dehydrogenase cytochrome c subunit
+glucose	D-glucose catabolism	gadh3	gluconate 2-dehydrogenase subunit 3
+glucose	D-glucose catabolism	gdh	quinoprotein glucose dehydrogenase
+glucose	D-glucose catabolism	glcS	glucose ABC transporter, substrate-binding component (GlcS)
+glucose	D-glucose catabolism	glcT	glucose ABC transporter, permease component 1 (GlcT)
+glucose	D-glucose catabolism	glcU	glucose ABC transporter, permease component 2 (GlcU)
+glucose	D-glucose catabolism	glcU'	Glucose uptake protein GlcU
+glucose	D-glucose catabolism	glcV	glucose ABC transporter, ATPase component (GclV)
+glucose	D-glucose catabolism	glk	glucokinase
+glucose	D-glucose catabolism	gnl	gluconolactonase
+glucose	D-glucose catabolism	gtsA	glucose ABC transporter, substrate-binding component (GtsA)
+glucose	D-glucose catabolism	gtsB	glucose ABC transporter, permease component 1 (GtsB)
+glucose	D-glucose catabolism	gtsC	glucose ABC transporter, permease component 2 (GtsC)
+glucose	D-glucose catabolism	gtsD	glucose ABC transporter, ATPase component (GtsD)
+glucose	D-glucose catabolism	kguD	2-keto-6-phosphogluconate reductase
+glucose	D-glucose catabolism	kguK	2-ketogluconokinase
+glucose	D-glucose catabolism	kguT	2-ketogluconate transporter
+glucose	D-glucose catabolism	manX	glucose PTS, enzyme EIIAB
+glucose	D-glucose catabolism	manY	glucose PTS, enzyme EIIC
+glucose	D-glucose catabolism	manZ	glucose PTS, enzyme EIID
+glucose	D-glucose catabolism	mglA	glucose ABC transporter, ATP-binding component (MglA)
+glucose	D-glucose catabolism	mglB	glucose ABC transporter, substrate-binding component
+glucose	D-glucose catabolism	mglC	glucose ABC transporter, permease component (MglC)
+glucose	D-glucose catabolism	ptsG	glucose PTS, enzyme IICB
+glucose	D-glucose catabolism	ptsG-crr	glucose PTS, enzyme II (CBA components, PtsG)
+glucose-6-P	D-glucose-6-phosphate catabolism	uhpT	glucose-6-phosphate:phosphate antiporter
+glucuronate	D-glucuronate catabolism	dctM	D-glucuronate TRAP transporter, large permease component
+glucuronate	D-glucuronate catabolism	dctP	D-glucuronate TRAP transporter, solute receptor component
+glucuronate	D-glucuronate catabolism	dctQ	D-glucuronate TRAP transporter, small permease component
+glucuronate	D-glucuronate catabolism	exuT	D-glucuronate:H+ symporter ExuT
+glucuronate	D-glucuronate catabolism	garL	5-dehydro-4-deoxy-D-glucarate aldolase
+glucuronate	D-glucuronate catabolism	garR	tartronate semialdehyde reductase
+glucuronate	D-glucuronate catabolism	gci	D-glucaro-1,4-lactone cycloisomerase
+glucuronate	D-glucuronate catabolism	gudD	D-glucarate dehydratase
+glucuronate	D-glucuronate catabolism	udh	D-glucuronate dehydrogenase
+glucuronate	D-glucuronate catabolism	uxaC	D-glucuronate isomerase
+glucuronate	D-glucuronate catabolism	uxuL	D-glucaro-1,5-lactonase UxuL or UxuF
+glutamate	L-glutamate catabolism	aapJ	ABC transporter for amino acids (Asp/Asn/Glu/Pro/Leu), substrate-binding component AapJ
+glutamate	L-glutamate catabolism	aapM	ABC transporter for amino acids (Asp/Asn/Glu/Pro/Leu), permease component 2 (AapM)
+glutamate	L-glutamate catabolism	aapP	ABC transporter for amino acids (Asp/Asn/Glu/Pro/Leu), ATPase component AapP
+glutamate	L-glutamate catabolism	aapQ	ABC transporter for amino acids (Asp/Asn/Glu/Pro/Leu), permease component 1 (AapQ)
+glutamate	L-glutamate catabolism	acaP	L-glutamate permease AcaP
+glutamate	L-glutamate catabolism	aspA	L-aspartate ammonia-lyase
+glutamate	L-glutamate catabolism	braC	ABC transporter for glutamate, histidine, arginine, and other amino acids, substrate-binding component BraC
+glutamate	L-glutamate catabolism	braD	ABC transporter for glutamate, histidine, arginine, and other amino acids, permease component 1 (BraD)
+glutamate	L-glutamate catabolism	braE	ABC transporter for glutamate, histidine, arginine, and other amino acids, permease component 2 (BraE)
+glutamate	L-glutamate catabolism	braF	ABC transporter for glutamate, histidine, arginine, and other amino acids, ATPase component 1 (BraF)
+glutamate	L-glutamate catabolism	braG	ABC transporter for glutamate, histidine, arginine, and other amino acids, ATPase component 2 (BraG)
+glutamate	L-glutamate catabolism	bztA	L-glutamate ABC transporter, substrate-binding component
+glutamate	L-glutamate catabolism	bztB	L-glutamate ABC transporter, permease component 1 (BztB)
+glutamate	L-glutamate catabolism	bztC	L-glutamate ABC transporter, permease component 2 (BztC)
+glutamate	L-glutamate catabolism	dmeA	L-glutamate transporter DmeA
+glutamate	L-glutamate catabolism	fumD	(S)-2-methylmalate dehydratase (mesaconase)
+glutamate	L-glutamate catabolism	gdhA	glutamate dehydrogenase, NAD-dependent
+glutamate	L-glutamate catabolism	glmE	L-glutamate mutase, E component
+glutamate	L-glutamate catabolism	glmS	L-glutamate mutase, S component
+glutamate	L-glutamate catabolism	glnP	L-glutamate ABC transporter, fused permease and substrate-binding components GlnP
+glutamate	L-glutamate catabolism	gltI	L-glutamate ABC transporter, substrate-binding component (GltI/AatJ)
+glutamate	L-glutamate catabolism	gltJ	L-glutamate ABC transporter, permease component 1 (gltJ/aatQ)
+glutamate	L-glutamate catabolism	gltK	L-glutamate ABC transporter, permease component 1 (gltK/aatM)
+glutamate	L-glutamate catabolism	gltL	L-glutamate ABC transporter, ATPase component (GltL/GluA/BztD/GlnQ/AatP/PEB1C)
+glutamate	L-glutamate catabolism	gltP	L-glutamate:cation symporter GltP/GltT
+glutamate	L-glutamate catabolism	gltS	L-glutamate:Na+ symporter GltS
+glutamate	L-glutamate catabolism	gltS_Syn	L-glutamate:Na+ symporter GltS_Syn
+glutamate	L-glutamate catabolism	gluB	L-glutamate ABC transporter, substrate-binding component GluB
+glutamate	L-glutamate catabolism	gluC	L-glutamate ABC transporter, permease component 1 (GluC)
+glutamate	L-glutamate catabolism	gluD	L-glutamate ABC transporter, permease component 2 (GluD)
+glutamate	L-glutamate catabolism	gtrA	tripartite L-glutamate:Na+ symporter, small membrane component GtrA
+glutamate	L-glutamate catabolism	gtrB	tripartite L-glutamate:Na+ symporter, large membrane component GtrB
+glutamate	L-glutamate catabolism	gtrC	tripartite L-glutamate:Na+ symporter, substrate-binding component GtrC
+glutamate	L-glutamate catabolism	mal	methylaspartate ammonia-lyase
+glutamate	L-glutamate catabolism	mcl	(S)-citramalyl-CoA pyruvate-lyase
+glutamate	L-glutamate catabolism	peb1A	L-glutamate ABC transporter, substrate-binding component Peb1A
+glutamate	L-glutamate catabolism	peb1B	L-glutamate ABC transporter, permease component Peb1B
+glutamate	L-glutamate catabolism	yveA	L-glutamate:H+ symporter YveA
+glycerol	glycerol catabolism	PLT5	glycerol:H+ symporter PLT5
+glycerol	glycerol catabolism	TIPa	glycerol facilitator TIPa
+glycerol	glycerol catabolism	YFL054C	glycrol facilitator protein
+glycerol	glycerol catabolism	aqp-3	glycerol porter aqp-3
+glycerol	glycerol catabolism	dhaD	glycerol dehydrogenase
+glycerol	glycerol catabolism	dhaK	dihydroxyacetone:PEP phosphotransferase, subunit K
+glycerol	glycerol catabolism	dhaK'	dihydroxyacetone kinase, ATP dependent (monomeric)
+glycerol	glycerol catabolism	dhaL	dihydroxyacetone:PEP phosphotransferase, subunit L
+glycerol	glycerol catabolism	dhaM	dihydroxyacetone:PEP phosphotransferase, subunit M
+glycerol	glycerol catabolism	fps1	glycerol uptake/efflux facilitator protein
+glycerol	glycerol catabolism	glpA	glycerol 3-phosphate dehydrogenase subunit A
+glycerol	glycerol catabolism	glpB	glycerol 3-phosphate dehydrogenase subunit B
+glycerol	glycerol catabolism	glpC	glycerol 3-phosphate dehydrogenase subunit C
+glycerol	glycerol catabolism	glpD	glycerol 3-phosphate dehydrogenase (monomeric)
+glycerol	glycerol catabolism	glpF	glycerol facilitator glpF
+glycerol	glycerol catabolism	glpF'	glycerol facilitator-aquaporin
+glycerol	glycerol catabolism	glpK	glycerol kinase
+glycerol	glycerol catabolism	glpO	glycerol 3-phosphate oxidase
+glycerol	glycerol catabolism	glpP	glycerol ABC transporter, permease component 1 (GlpP)
+glycerol	glycerol catabolism	glpQ	glycerol ABC transporter, permease component 2 (GlpQ)
+glycerol	glycerol catabolism	glpS	glycerol ABC transporter, ATPase component 1 (GlpS)
+glycerol	glycerol catabolism	glpT	glycerol ABC transporter, ATPase component 2 (GlpT)
+glycerol	glycerol catabolism	glpV	glycerol ABC transporter, substrate-binding component GlpV
+glycerol	glycerol catabolism	stl1	glycerol:H+ symporter Stl1p
+histidine	L-histidine catabolism	Ac3H11_2554	ABC transporter for L-Histidine, permease component 2
+histidine	L-histidine catabolism	Ac3H11_2555	L-histidine ABC transporter, substrate-binding component 2
+histidine	L-histidine catabolism	Ac3H11_2560	L-histidine ABC transporter, ATPase component
+histidine	L-histidine catabolism	Ac3H11_2561	L-histidine ABC transporter, permease component 1
+histidine	L-histidine catabolism	Ac3H11_2562	L-histidine ABC transporter, substrate-binding component 1
+histidine	L-histidine catabolism	BPHYT_RS24000	L-histidine ABC transporter, substrate-binding component
+histidine	L-histidine catabolism	BPHYT_RS24005	L-histidine ABC transporter, permease component 1
+histidine	L-histidine catabolism	BPHYT_RS24010	L-histidine ABC transporter, permease component 2
+histidine	L-histidine catabolism	BPHYT_RS24015	L-histidine ABC transporter, ATPase component
+histidine	L-histidine catabolism	Ga0059261_1577	L-histidine transporter
+histidine	L-histidine catabolism	LAT2	L-histidine transporter
+histidine	L-histidine catabolism	LHT	L-histidine transporter
+histidine	L-histidine catabolism	PA5503	L-histidine ABC transporter, ATPase component
+histidine	L-histidine catabolism	PA5504	L-histidine ABC transporter, permease component
+histidine	L-histidine catabolism	PA5505	L-histidine ABC transporter, substrate-binding component
+histidine	L-histidine catabolism	PTR2	L-histidine:H+ symporter
+histidine	L-histidine catabolism	S15A3	L-histidine transporter
+histidine	L-histidine catabolism	SLC38A3	L-histidine:Na+ symporter
+histidine	L-histidine catabolism	aapJ	L-histidine ABC transporter, substrate-binding component AapJ
+histidine	L-histidine catabolism	aapM	L-histidine ABC transporter, permease component 2 (AapM)
+histidine	L-histidine catabolism	aapP	L-histidine ABC transporter, ATPase component AapP
+histidine	L-histidine catabolism	aapQ	L-histidine ABC transporter, permease component 1 (AapQ)
+histidine	L-histidine catabolism	bgtA	L-histidine ABC transporter, ATPase component BgtA
+histidine	L-histidine catabolism	bgtB	L-histidine ABC transporter, fused substrate-binding and permease components (BgtB/BgtAB)
+histidine	L-histidine catabolism	hisJ	L-histidine ABC transporter, substrate-binding component HisJ
+histidine	L-histidine catabolism	hisM	L-histidine ABC transporter, permease component 1 (HisM)
+histidine	L-histidine catabolism	hisP	L-histidine ABC transporter, ATPase component HisP
+histidine	L-histidine catabolism	hisQ	L-histidine ABC transporter, permease component 2 (HisQ)
+histidine	L-histidine catabolism	hutF	N-formiminoglutamate deiminase
+histidine	L-histidine catabolism	hutG	N-formiminoglutamate formiminohydrolase
+histidine	L-histidine catabolism	hutG'	N-formylglutamate amidohydrolase
+histidine	L-histidine catabolism	hutH	histidine ammonia-lyase
+histidine	L-histidine catabolism	hutI	imidazole-5-propionate hydrolase
+histidine	L-histidine catabolism	hutU	urocanase
+histidine	L-histidine catabolism	hutV	L-histidine ABC transporter, ATPase component HutV
+histidine	L-histidine catabolism	hutW	L-histidine ABC transporter, permease component HutW
+histidine	L-histidine catabolism	hutX	L-histidine ABC transporter, substrate-binding component HutX
+histidine	L-histidine catabolism	natA	L-histidine ABC transporter, ATPase component 1 (NatA)
+histidine	L-histidine catabolism	natB	L-histidine ABC transporter, substrate-binding component NatB
+histidine	L-histidine catabolism	natC	L-histidine ABC transporter, permease component 1 (NatC)
+histidine	L-histidine catabolism	natD	L-histidine ABC transporter, permease component 2 (NatD)
+histidine	L-histidine catabolism	natE	L-histidine ABC transporter, ATPase component 2 (NatE)
+histidine	L-histidine catabolism	permease	L-histidine permease
+isoleucine	L-isoleucine catabolism	Bap2	L-isoleucine permease Bap2
+isoleucine	L-isoleucine catabolism	acdH	(2S)-2-methylbutanoyl-CoA dehydrogenase
+isoleucine	L-isoleucine catabolism	bcaP	L-isoleucine uptake transporter BcaP/CitA
+isoleucine	L-isoleucine catabolism	brnQ	L-isoleucine:cation symporter BrnQ/BraZ/BraB
+isoleucine	L-isoleucine catabolism	ech	2-methyl-3-hydroxybutyryl-CoA hydro-lyase
+isoleucine	L-isoleucine catabolism	fadA	2-methylacetoacetyl-CoA thiolase
+isoleucine	L-isoleucine catabolism	ivdG	3-hydroxy-2-methylbutyryl-CoA dehydrogenase
+isoleucine	L-isoleucine catabolism	livF	L-isoleucine ABC transporter, ATPase component 1 (LivF/BraG)
+isoleucine	L-isoleucine catabolism	livG	L-isoleucine ABC transporter, ATPase component 2 (LivG/BraF)
+isoleucine	L-isoleucine catabolism	livH	L-isoleucine ABC transporter, permease component 1 (LivH/BraD)
+isoleucine	L-isoleucine catabolism	livJ	L-isoleucine ABC transporter, substrate-binding component (LivJ/LivK/BraC/BraC3)
+isoleucine	L-isoleucine catabolism	livM	L-isoleucine ABC transporter, permease component 2 (LivM/BraE)
+isoleucine	L-isoleucine catabolism	natA	L-isoleucine ABC transporter, ATPase component 1 (NatA)
+isoleucine	L-isoleucine catabolism	natB	L-isoleucine ABC transporter, substrate-binding component NatB
+isoleucine	L-isoleucine catabolism	natC	L-isoleucine ABC transporter, permease component 1 (NatC)
+isoleucine	L-isoleucine catabolism	natD	L-isoleucine ABC transporter, permease component 2 (NatD)
+isoleucine	L-isoleucine catabolism	natE	L-isoleucine ABC transporter, ATPase component 2 (NatE)
+lactose	lactose catabolism	klh	periplasmic 3'-ketolactose hydrolase
+lactose	lactose catabolism	lacA'	periplasmic lactose 3-dehydrogenase, LacA subunit
+lactose	lactose catabolism	lacB'	periplasmic lactose 3-dehydrogenase, cytochrome c component (LacB)
+lactose	lactose catabolism	lacC'	periplasmic lactose 3-dehydrogenase, LacC subunit
+lactose	lactose catabolism	lacE	lactose ABC transporter, substrate-binding component
+lactose	lactose catabolism	lacF	lactose ABC transporter, permease component 1
+lactose	lactose catabolism	lacG	lactose ABC transporter, permease component 2
+lactose	lactose catabolism	lacIIA	lactose PTS system, EIIA component
+lactose	lactose catabolism	lacIIB	lactose PTS system, EIIB component
+lactose	lactose catabolism	lacIIC	lactose PTS system, EIIC component
+lactose	lactose catabolism	lacIICB	lactose PTS system, fused EIIC and EIIB components
+lactose	lactose catabolism	lacK	lactose ABC transporter, ATPase component
+lactose	lactose catabolism	lacL	heteromeric lactase, large subunit
+lactose	lactose catabolism	lacM	heteromeric lactase, small subunit
+lactose	lactose catabolism	lacP	lactose permease LacP
+lactose	lactose catabolism	lacS	lactose permease LacS
+lactose	lactose catabolism	lacY	lactose:proton symporter LacY
+lactose	lactose catabolism	lacZ	lactase (homomeric)
+lactose	lactose catabolism	pbgal	phospho-beta-galactosidase
+leucine	L-leucine catabolism	AAP1	L-leucine permease AAP1
+leucine	L-leucine catabolism	Bap2	L-leucine permease Bap2
+leucine	L-leucine catabolism	aacS	acetoacetyl-CoA synthetase
+leucine	L-leucine catabolism	atoA	acetoacetyl-CoA transferase, A subunit
+leucine	L-leucine catabolism	atoB	acetyl-CoA C-acetyltransferase
+leucine	L-leucine catabolism	atoD	acetoacetyl-CoA transferase, B subunit
+leucine	L-leucine catabolism	bcaP	L-leucine uptake transporter BcaP
+leucine	L-leucine catabolism	bkdA	branched-chain alpha-ketoacid dehydrogenase, E1 component alpha subunit
+leucine	L-leucine catabolism	bkdB	branched-chain alpha-ketoacid dehydrogenase, E1 component beta subunit
+leucine	L-leucine catabolism	bkdC	branched-chain alpha-ketoacid dehydrogenase, E2 component
+leucine	L-leucine catabolism	brnQ	L-leucine:Na+ symporter BrnQ/BraB
+leucine	L-leucine catabolism	ilvE	L-leucine transaminase
+leucine	L-leucine catabolism	leuT	L-leucine:Na+ symporter LeuT
+leucine	L-leucine catabolism	liuA	isovaleryl-CoA dehydrogenase
+leucine	L-leucine catabolism	liuB	3-methylcrotonyl-CoA carboxylase, alpha (biotin-containing) subunit
+leucine	L-leucine catabolism	liuC	3-methylglutaconyl-CoA hydratase
+leucine	L-leucine catabolism	liuD	3-methylcrotonyl-CoA carboxylase, beta subunit
+leucine	L-leucine catabolism	liuE	hydroxymethylglutaryl-CoA lyase
+leucine	L-leucine catabolism	livF	L-leucine ABC transporter, ATPase component 1 (LivF/BraG)
+leucine	L-leucine catabolism	livG	L-leucine ABC transporter, ATPase component 2 (LivG/BraF)
+leucine	L-leucine catabolism	livH	L-leucine ABC transporter, permease component 1 (LivH/BraD)
+leucine	L-leucine catabolism	livJ	L-leucine ABC transporter, substrate-binding component (LivJ/LivK/BraC/BraC3)
+leucine	L-leucine catabolism	livM	L-leucine ABC transporter, permease component 2 (LivM/BraE)
+leucine	L-leucine catabolism	lpd	branched-chain alpha-ketoacid dehydrogenase, E3 component
+leucine	L-leucine catabolism	natA	L-leucine ABC transporter, ATPase component 1 (NatA)
+leucine	L-leucine catabolism	natB	L-leucine ABC transporter, substrate-binding component NatB
+leucine	L-leucine catabolism	natC	L-leucine ABC transporter, permease component 1 (NatC)
+leucine	L-leucine catabolism	natD	L-leucine ABC transporter, permease component 2 (NatD)
+leucine	L-leucine catabolism	natE	L-leucine ABC transporter, ATPase component 2 (NatE)
+leucine	L-leucine catabolism	ofo	branched-chain alpha-ketoacid:ferredoxin oxidoreductase, fused
+leucine	L-leucine catabolism	ofoA	branched-chain alpha-ketoacid:ferredoxin oxidoreductase, alpha subunit OfoA
+leucine	L-leucine catabolism	ofoB	branched-chain alpha-ketoacid:ferredoxin oxidoreductase, beta subunit OfoB
+leucine	L-leucine catabolism	vorA	branched-chain alpha-ketoacid:ferredoxin oxidoreductase, alpha subunit VorA
+leucine	L-leucine catabolism	vorB	branched-chain alpha-ketoacid:ferredoxin oxidoreductase, beta subunit VorB
+leucine	L-leucine catabolism	vorC	branched-chain alpha-ketoacid:ferredoxin oxidoreductase, gamma subunit VorC
+lysine	L-lysine catabolism	LHT	L-lysine transporter
+lysine	L-lysine catabolism	Slc7a1	L-lysine transporter Slc7a1
+lysine	L-lysine catabolism	alr	lysine racemase
+lysine	L-lysine catabolism	amaA	L-pipecolate oxidase
+lysine	L-lysine catabolism	amaB	L-2-aminoadipate semialdehyde dehydrogenase (AmaB/Pcd)
+lysine	L-lysine catabolism	amaD	D-lysine oxidase
+lysine	L-lysine catabolism	argT	L-lysine ABC transporter, substrate-binding component ArgT
+lysine	L-lysine catabolism	bcd	butanoyl-CoA dehydrogenase (NAD+, ferredoxin), dehydrogenase subunit
+lysine	L-lysine catabolism	bgtB	L-histidine ABC transporter, fused substrate-binding and permease components (BgtB/BgtAB)
+lysine	L-lysine catabolism	cadA	lysine decarboxylase
+lysine	L-lysine catabolism	ctfA	butanoyl-CoA:acetoacetate CoA-transferase, alpha subunit
+lysine	L-lysine catabolism	ctfB	butanoyl-CoA:acetoacetate CoA-transferase, beta subunit
+lysine	L-lysine catabolism	davA	5-aminovaleramidase
+lysine	L-lysine catabolism	davB	L-lysine 2-monooxygenase
+lysine	L-lysine catabolism	davD	glutarate semialdehyde dehydrogenase
+lysine	L-lysine catabolism	davT	5-aminovalerate aminotransferase
+lysine	L-lysine catabolism	dpkA	1-piperideine-2-carboxylate reductase
+lysine	L-lysine catabolism	etfA	butanoyl-CoA dehydrogenase (NAD+, ferredoxin),  etfA subunit
+lysine	L-lysine catabolism	etfB	butanoyl-CoA dehydrogenase (NAD+, ferredoxin),  etfB subunit
+lysine	L-lysine catabolism	gcdG	succinyl-CoA:glutarate CoA-transferase
+lysine	L-lysine catabolism	glaH	glutarate 2-hydroxylase, succinate-releasing (GlaH or CsiD)
+lysine	L-lysine catabolism	hglS	D-2-hydroxyglutarate synthase
+lysine	L-lysine catabolism	hisM	L-lysine ABC transporter, permease component 1 (HisM)
+lysine	L-lysine catabolism	hisP	L-lysine ABC transporter, ATPase component HisP
+lysine	L-lysine catabolism	hisQ	L-lysine ABC transporter, permease component 2 (HisQ)
+lysine	L-lysine catabolism	kal	3-aminobutyryl-CoA deaminase
+lysine	L-lysine catabolism	kamA	L-lysine 2,3-aminomutase
+lysine	L-lysine catabolism	kamD	L-beta-lysine 5,6-aminomutase, alpha subunit
+lysine	L-lysine catabolism	kamE	L-beta-lysine 5,6-aminomutase, beta subunit
+lysine	L-lysine catabolism	kce	(S)-5-amino-3-oxohexanoate cleavage enzyme
+lysine	L-lysine catabolism	kdd	3,5-diaminohexanoate dehydrogenase
+lysine	L-lysine catabolism	lat	L-lysine 6-aminotransferase
+lysine	L-lysine catabolism	lhgD	L-2-hydroxyglutarate dehydrogenase or oxidase (LhgD or LhgO)
+lysine	L-lysine catabolism	lysDH	L-lysine 6-dehydrogenase
+lysine	L-lysine catabolism	lysL	L-lysine transporter LysL
+lysine	L-lysine catabolism	lysN	2-aminoadipate transaminase
+lysine	L-lysine catabolism	lysP	L-lysine:H+ symporter LysP
+lysine	L-lysine catabolism	patA	cadaverine aminotransferase
+lysine	L-lysine catabolism	patD	5-aminopentanal dehydrogenase
+lysine	L-lysine catabolism	ydiJ	(R)-2-hydroxyglutarate dehydrogenase
+maltose	D-maltose catabolism	MAL11	maltose permease
+maltose	D-maltose catabolism	SUC2	maltose:H+ symporter
+maltose	D-maltose catabolism	SUT1	maltose:H+ symporter
+maltose	D-maltose catabolism	aglE	maltose ABC transporter, substrate-binding component AglK
+maltose	D-maltose catabolism	aglF	maltose ABC transporter, permease component 1 (AglF)
+maltose	D-maltose catabolism	aglG	maltose ABC transporter, permease component 2 (AglG)
+maltose	D-maltose catabolism	aglK	maltose ABC transporter, ATPase component AglK
+maltose	D-maltose catabolism	cscB	maltose permease
+maltose	D-maltose catabolism	malA	6-phospho-alphaglucosidase
+maltose	D-maltose catabolism	malAP	maltose permease
+maltose	D-maltose catabolism	malE	maltose ABC transporter, substrate-binding component MalE
+maltose	D-maltose catabolism	malE1	maltose ABC transporter, substrate-binding component (MalE1/MalE2)
+maltose	D-maltose catabolism	malEF_Bb	maltose ABC transporter, fused substrate-binding and permease component 1
+maltose	D-maltose catabolism	malEIIA	maltose phosphotransferase system, EII-A component (PtsG/YpqE/GamP)
+maltose	D-maltose catabolism	malEIICB	maltose phosphotransferase system, EII-CB components     curated:SwissProt::P54715
+maltose	D-maltose catabolism	malEIICBA	maltose phosphotransferase system, EII-CBA components
+maltose	D-maltose catabolism	malE_Aa	maltose ABC transporter, substrate-binding component
+maltose	D-maltose catabolism	malE_Ss	maltose ABC transporter, substrate-binding component
+maltose	D-maltose catabolism	malF	maltose ABC transporter, permease component 1 (MalF)
+maltose	D-maltose catabolism	malF1	maltose ABC transporter, permease component 1 (MalF1)
+maltose	D-maltose catabolism	malF_Aa	maltose ABC transporter, permease component 1
+maltose	D-maltose catabolism	malF_Sm	maltose ABC transporter, permease component 1
+maltose	D-maltose catabolism	malF_Ss	maltose ABC transporter, permease component 1
+maltose	D-maltose catabolism	malG	maltose ABC transporter, permease component 2 (MalG)
+maltose	D-maltose catabolism	malG1	maltose ABC transporter, permease component 2 (MalG1/MalG2)
+maltose	D-maltose catabolism	malG_Aa	maltose ABC transporter, permease component 2
+maltose	D-maltose catabolism	malG_Bb	maltose ABC transporter, permease component 2
+maltose	D-maltose catabolism	malG_Sm	maltose ABC transporter, permease component 2
+maltose	D-maltose catabolism	malG_Ss	maltose ABC transporter, permease component 2
+maltose	D-maltose catabolism	malI	maltose transporter
+maltose	D-maltose catabolism	malK	maltose ABC transporter, ATPase component MalK
+maltose	D-maltose catabolism	malK1	maltose ABC transporter, ATPase component
+maltose	D-maltose catabolism	malK_Aa	maltose ABC transporter, ATPase component
+maltose	D-maltose catabolism	malK_Bb	maltose ABC transporter, ATPase component
+maltose	D-maltose catabolism	malK_Sm	maltose ABC transporter, ATPase component
+maltose	D-maltose catabolism	malK_Ss	maltose ABC transporter, ATPase component
+maltose	D-maltose catabolism	malP	maltose phosphorylase
+maltose	D-maltose catabolism	malX_Sm	maltose ABC transporter, substrate-binding component
+maltose	D-maltose catabolism	mapP	maltose 6'-phosphate phosphatase
+maltose	D-maltose catabolism	musE	maltose ABC transporter, substrate-binding component MusE
+maltose	D-maltose catabolism	musF	maltose ABC transporter, permease component 1 (MusF)
+maltose	D-maltose catabolism	musG	maltose ABC transporter, permease component 2 (MusG)
+maltose	D-maltose catabolism	musI	maltose ABC transporter, uncharacterized membrane component MusI
+maltose	D-maltose catabolism	musK	maltose ABC transporter, ATPase component MusK
+maltose	D-maltose catabolism	pgmB	beta-phosphoglucomutase
+maltose	D-maltose catabolism	susB	alpha-glucosidase (maltase)
+maltose	D-maltose catabolism	thuE	maltose ABC transporter, substrate-binding component ThuE
+maltose	D-maltose catabolism	thuF	maltose ABC transporter, permease component 1 (ThuF)
+maltose	D-maltose catabolism	thuG	maltose ABC transporter, permease component 2 (ThuG)
+maltose	D-maltose catabolism	thuK	maltose ABC transporter, ATPase component ThuK
+mannitol	D-mannitol catabolism	PLT5	polyol transporter PLT5
+mannitol	D-mannitol catabolism	cmtA	mannitol phosphotransferase system, EII-CB component CmtA/MtlF
+mannitol	D-mannitol catabolism	cmtB	mannitol phosphotransferase system, EII-A component CmtB/MtlF
+mannitol	D-mannitol catabolism	gutA	mannitol PTS system, EII-C2 component GutA
+mannitol	D-mannitol catabolism	gutB	mannitol PTS system, EII-A component GutB
+mannitol	D-mannitol catabolism	gutE	mannitol PTS system, EII-BC1 component GutE
+mannitol	D-mannitol catabolism	mak	mannose kinase
+mannitol	D-mannitol catabolism	mt1d	mannitol 1-dehydrogenase
+mannitol	D-mannitol catabolism	mt2d	mannitol 2-dehydrogenase
+mannitol	D-mannitol catabolism	mtlA	mannitol phosphotransferase system, EII-CBA components
+mannitol	D-mannitol catabolism	mtlD	mannitol-1-phosphate 5-dehydrogenase
+mannitol	D-mannitol catabolism	mtlE	polyol ABC transporter, substrate-binding component MtlE/SmoE
+mannitol	D-mannitol catabolism	mtlF	polyol ABC transporter, permease component 1 (MtlF/SmoF)
+mannitol	D-mannitol catabolism	mtlG	polyol ABC transporter, permease component 2 (MtlG/SmoG)
+mannitol	D-mannitol catabolism	mtlK	polyol ABC transporter, ATP component MtlK/SmoG
+mannose	D-mannose catabolism	HSERO_RS03635	mannose ABC transporter, substrate-binding component
+mannose	D-mannose catabolism	HSERO_RS03640	mannose ABC transporter, ATPase component
+mannose	D-mannose catabolism	HSERO_RS03645	mannose ABC transporter, permease component
+mannose	D-mannose catabolism	MST1	mannose:H+ symporter
+mannose	D-mannose catabolism	STP6	mannose:H+ symporter
+mannose	D-mannose catabolism	TM1746	mannose ABC transporter, substrate-binding component
+mannose	D-mannose catabolism	TM1747	mannose ABC transporter, permease component 1
+mannose	D-mannose catabolism	TM1748	mannose ABC transporter, permease component 2
+mannose	D-mannose catabolism	TM1749	mannose ABC transporter, ATPase component 1
+mannose	D-mannose catabolism	TM1750	mannose ABC transporter, ATPase component 2
+mannose	D-mannose catabolism	TT_C0211	mannose ABC transporter, ATPase component MalK1
+mannose	D-mannose catabolism	TT_C0326	mannose ABC transporter, permease component 2
+mannose	D-mannose catabolism	TT_C0327	mannose ABC transporter, permease component 1
+mannose	D-mannose catabolism	TT_C0328	mannose ABC transporter, substrate-binding component
+mannose	D-mannose catabolism	frcA	mannose ABC transporter, ATPase component FrcA
+mannose	D-mannose catabolism	frcB	mannose ABC transporter, substrate-binding component FrcB
+mannose	D-mannose catabolism	frcC	mannose ABC transporter, permease component FrcC
+mannose	D-mannose catabolism	glcP	mannose:H+ symporter
+mannose	D-mannose catabolism	glcS	mannose ABC transporter, substrate-binding component GlcS
+mannose	D-mannose catabolism	glcT	mannose ABC transporter, permease component 1 (GlcT)
+mannose	D-mannose catabolism	glcU	mannose ABC transporter, permease component 2 (GlcU)
+mannose	D-mannose catabolism	glcV	mannose ABC transporter, ATPase component GlcV
+mannose	D-mannose catabolism	gluP	mannose:Na+ symporter
+mannose	D-mannose catabolism	man-isomerase	D-mannose isomerase
+mannose	D-mannose catabolism	manA	mannose-6-phosphate isomerase
+mannose	D-mannose catabolism	manMFS	mannose transporter, MFS superfamily
+mannose	D-mannose catabolism	manP	mannose PTS system, EII-CBA components
+mannose	D-mannose catabolism	manX	mannose PTS system, EII-AB component ManX/ManL
+mannose	D-mannose catabolism	manY	mannose PTS system, EII-C component ManY/ManM
+mannose	D-mannose catabolism	manZ	mannose PTS system, EII-D component ManZ/ManN
+mannose	D-mannose catabolism	mannokinase	D-mannose kinase
+myoinositol	myo-inositol catabolism	HMIT	myo-inositol:H+ symporter
+myoinositol	myo-inositol catabolism	PGA1_c07300	myo-inositol ABC transport, substrate-binding component
+myoinositol	myo-inositol catabolism	PGA1_c07310	myo-inositol ABC transporter, permease component
+myoinositol	myo-inositol catabolism	PGA1_c07320	myo-inositol ABC transporter, ATPase component
+myoinositol	myo-inositol catabolism	PS417_11885	myo-inositol ABC transporter, substrate-binding component
+myoinositol	myo-inositol catabolism	PS417_11890	myo-inositol ABC transporter, ATPase component
+myoinositol	myo-inositol catabolism	PS417_11895	myo-inositol ABC transporter, permease component
+myoinositol	myo-inositol catabolism	SMIT1	myo-inositol:Na+ symporter
+myoinositol	myo-inositol catabolism	iatA	myo-inositol ABC transporter, ATPase component IatA
+myoinositol	myo-inositol catabolism	iatP	myo-inositol ABC transporter, permease component IatP
+myoinositol	myo-inositol catabolism	ibpA	myo-inositol ABC transporter, substrate-binding component IbpA
+myoinositol	myo-inositol catabolism	iolB	5-deoxy-D-glucuronate isomerase
+myoinositol	myo-inositol catabolism	iolC	5-dehydro-2-deoxy-D-gluconate kinase
+myoinositol	myo-inositol catabolism	iolD	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+myoinositol	myo-inositol catabolism	iolE	scyllo-inosose 2-dehydratase
+myoinositol	myo-inositol catabolism	iolF	myo-inositol:H+ symporter
+myoinositol	myo-inositol catabolism	iolG	myo-inositol 2-dehydrogenase
+myoinositol	myo-inositol catabolism	iolJ	5-dehydro-2-deoxyphosphogluconate aldolase
+myoinositol	myo-inositol catabolism	iolM	2-inosose 4-dehydrogenase
+myoinositol	myo-inositol catabolism	iolN	2,4-diketo-inositol hydratase
+myoinositol	myo-inositol catabolism	iolO	5-dehydro-L-gluconate epimerase
+myoinositol	myo-inositol catabolism	iolT	myo-inositol:H+ symporter
+myoinositol	myo-inositol catabolism	mmsA	malonate-semialdehyde dehydrogenase
+myoinositol	myo-inositol catabolism	uxaE	D-tagaturonate epimerase
+myoinositol	myo-inositol catabolism	uxuA	D-mannonate dehydratase
+myoinositol	myo-inositol catabolism	uxuB	D-mannonate dehydrogenase
+phenylacetate	phenylacetate catabolism	Ch1CoA	cyclohex-1-ene-1-carbonyl-CoA dehydrogenase
+phenylacetate	phenylacetate catabolism	H281DRAFT_04042	phenylacetate:H+ symporter
+phenylacetate	phenylacetate catabolism	badH	2-hydroxy-cyclohexanecarboxyl-CoA dehydrogenase
+phenylacetate	phenylacetate catabolism	badI	2-ketocyclohexanecarboxyl-CoA hydrolase
+phenylacetate	phenylacetate catabolism	badK	cyclohex-1-ene-1-carboxyl-CoA hydratase
+phenylacetate	phenylacetate catabolism	bamB	class II benzoyl-CoA reductase, BamB subunit
+phenylacetate	phenylacetate catabolism	bamC	class II benzoyl-CoA reductase, BamC subunit
+phenylacetate	phenylacetate catabolism	bamD	class II benzoyl-CoA reductase, BamD subunit
+phenylacetate	phenylacetate catabolism	bamE	class II benzoyl-CoA reductase, BamE subunit
+phenylacetate	phenylacetate catabolism	bamF	class II benzoyl-CoA reductase, BamF subunit
+phenylacetate	phenylacetate catabolism	bamG	class II benzoyl-CoA reductase, BamG subunit
+phenylacetate	phenylacetate catabolism	bamH	class II benzoyl-CoA reductase, BamH subunit
+phenylacetate	phenylacetate catabolism	bamI	class II benzoyl-CoA reductase, BamI subunit
+phenylacetate	phenylacetate catabolism	bcrA	ATP-dependent benzoyl-CoA reductase, alpha subunit
+phenylacetate	phenylacetate catabolism	bcrB	ATP-dependent benzoyl-CoA reductase, beta subunit
+phenylacetate	phenylacetate catabolism	bcrC	ATP-dependent benzoyl-CoA reductase, gamma subunit
+phenylacetate	phenylacetate catabolism	bcrD	ATP-dependent benzoyl-CoA reductase, delta subunit
+phenylacetate	phenylacetate catabolism	boxA	benzoyl-CoA epoxidase, subunit A
+phenylacetate	phenylacetate catabolism	boxB	benzoyl-CoA epoxidase, subunit B
+phenylacetate	phenylacetate catabolism	boxC	2,3-epoxybenzoyl-CoA dihydrolase
+phenylacetate	phenylacetate catabolism	boxD	3,4-dehydroadipyl-CoA semialdehyde dehydrogenase
+phenylacetate	phenylacetate catabolism	dch	cyclohexa-1,5-diene-1-carboxyl-CoA hydratase
+phenylacetate	phenylacetate catabolism	ech	(S)-3-hydroxybutanoyl-CoA hydro-lyase
+phenylacetate	phenylacetate catabolism	fadB	(S)-3-hydroxybutanoyl-CoA dehydrogenase
+phenylacetate	phenylacetate catabolism	gcdH	glutaryl-CoA dehydrogenase
+phenylacetate	phenylacetate catabolism	had	6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase
+phenylacetate	phenylacetate catabolism	oah	6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase
+phenylacetate	phenylacetate catabolism	paaA	phenylacetyl-CoA 1,2-epoxidase, subunit A
+phenylacetate	phenylacetate catabolism	paaB	phenylacetyl-CoA 1,2-epoxidase, subunit B
+phenylacetate	phenylacetate catabolism	paaC	phenylacetyl-CoA 1,2-epoxidase, subunit C
+phenylacetate	phenylacetate catabolism	paaE	phenylacetyl-CoA 1,2-epoxidase, subunit E
+phenylacetate	phenylacetate catabolism	paaF	2,3-dehydroadipyl-CoA hydratase
+phenylacetate	phenylacetate catabolism	paaG	1,2-epoxyphenylacetyl-CoA isomerase / 2-(oxepinyl)acetyl-CoA isomerase / didehydroadipyl-CoA isomerase 
+phenylacetate	phenylacetate catabolism	paaH	3-hydroxyadipyl-CoA dehydrogenase
+phenylacetate	phenylacetate catabolism	paaJ1	3-oxo-5,6-dehydrosuberyl-CoA thiolase
+phenylacetate	phenylacetate catabolism	paaJ2	3-oxoadipyl-CoA thiolase
+phenylacetate	phenylacetate catabolism	paaK	phenylacetate-CoA ligase
+phenylacetate	phenylacetate catabolism	paaT	phenylacetate transporter Paa
+phenylacetate	phenylacetate catabolism	paaZ1	oxepin-CoA hydrolase
+phenylacetate	phenylacetate catabolism	paaZ2	3-oxo-5,6-didehydrosuberyl-CoA semialdehyde dehydrogenase
+phenylacetate	phenylacetate catabolism	padB	phenylacetyl-CoA dehydrogenase, PadB subunit
+phenylacetate	phenylacetate catabolism	padC	phenylacetyl-CoA dehydrogenase, PadC subunit
+phenylacetate	phenylacetate catabolism	padD	phenylacetyl-CoA dehydrogenase, PadD subunit
+phenylacetate	phenylacetate catabolism	padE	phenylglyoxylate dehydrogenase, gamma subunit
+phenylacetate	phenylacetate catabolism	padF	phenylglyoxylate dehydrogenase, delta subunit
+phenylacetate	phenylacetate catabolism	padG	phenylglyoxylate dehydrogenase, alpha subunit
+phenylacetate	phenylacetate catabolism	padH	phenylglyoxylate dehydrogenase, epsilon subunit
+phenylacetate	phenylacetate catabolism	padI	phenylglyoxylate dehydrogenase, beta subunit
+phenylacetate	phenylacetate catabolism	pimB	3-oxopimeloyl-CoA:CoA acetyltransferase
+phenylacetate	phenylacetate catabolism	pimC	pimeloyl-CoA dehydrogenase, small subunit
+phenylacetate	phenylacetate catabolism	pimD	pimeloyl-CoA dehydrogenase, large subunit
+phenylacetate	phenylacetate catabolism	pimF	6-carboxyhex-2-enoyl-CoA hydratase
+phenylacetate	phenylacetate catabolism	ppa	phenylacetate permease ppa
+phenylalanine	L-phenylalanine catabolism	ARO10	phenylpyruvate decarboxylase
+phenylalanine	L-phenylalanine catabolism	ARO8	L-phenylalanine transaminase
+phenylalanine	L-phenylalanine catabolism	PAH	phenylalanine 4-monooxygenase
+phenylalanine	L-phenylalanine catabolism	PCBD	pterin-4-alpha-carbinoalamine dehydratase
+phenylalanine	L-phenylalanine catabolism	PPDCalpha	phenylpyruvate decarboxylase, alpha subunit
+phenylalanine	L-phenylalanine catabolism	PPDCbeta	phenylpyruvate decarboxylase, beta subunit
+phenylalanine	L-phenylalanine catabolism	QDPR	6,7-dihydropteridine reductase
+phenylalanine	L-phenylalanine catabolism	aroP	L-phenylalanine:H+ symporter AroP
+phenylalanine	L-phenylalanine catabolism	iorA	phenylpyruvate:ferredoxin oxidoreductase, IorA subunit
+phenylalanine	L-phenylalanine catabolism	iorAB	phenylpyruvate:ferredoxin oxidoreductase, fused IorA/IorB
+phenylalanine	L-phenylalanine catabolism	iorB	phenylpyruvate:ferredoxin oxidoreductase, IorB subunit
+phenylalanine	L-phenylalanine catabolism	livF	L-phenylalanine ABC transporter, ATPase component 1 (LivF)
+phenylalanine	L-phenylalanine catabolism	livG	L-phenylalanine ABC transporter, ATPase component 2 (LivG)
+phenylalanine	L-phenylalanine catabolism	livH	L-phenylalanine ABC transporter, permease component 1 (LivH)
+phenylalanine	L-phenylalanine catabolism	livJ	L-phenylalanine ABC transporter, substrate-binding component LivJ/LivK
+phenylalanine	L-phenylalanine catabolism	livM	L-phenylalanine ABC transporter, permease component 2 (LivM)
+phenylalanine	L-phenylalanine catabolism	pad-dh	phenylacetaldehyde dehydrogenase
+phenylalanine	L-phenylalanine catabolism	pfor	phenylacetaldeyde:ferredoxin oxidoreductase
+proline	L-proline catabolism	AAT20.2	proline transporter
+proline	L-proline catabolism	AZOBR_RS08235	proline ABC transporter, permease component 1
+proline	L-proline catabolism	AZOBR_RS08240	proline ABC transporter, permease component 2
+proline	L-proline catabolism	AZOBR_RS08245	proline ABC transporter, ATPase component 1
+proline	L-proline catabolism	AZOBR_RS08250	proline ABC transporter, ATPase component 2
+proline	L-proline catabolism	AZOBR_RS08260	proline ABC transporter, substrate-binding component
+proline	L-proline catabolism	BAC2	basic amino acid carrier BAC2
+proline	L-proline catabolism	CCNA_00435	proline transporter
+proline	L-proline catabolism	HSERO_RS00870	proline ABC transporter, substrate-binding component
+proline	L-proline catabolism	HSERO_RS00885	proline ABC transporter, permease component 1
+proline	L-proline catabolism	HSERO_RS00890	proline ABC transporter, permease component 2
+proline	L-proline catabolism	HSERO_RS00895	proline ABC transporter, ATPase component 1
+proline	L-proline catabolism	HSERO_RS00900	proline ABC transporter, ATPase component 2
+proline	L-proline catabolism	N515DRAFT_2924	proline transporter
+proline	L-proline catabolism	PROT1	proline transporter
+proline	L-proline catabolism	SLC6A7	proline:Na+ symporter
+proline	L-proline catabolism	betS	proline transporter BetS
+proline	L-proline catabolism	ectP	proline transporter EctP
+proline	L-proline catabolism	hutV	proline ABC transporter, ATPase component HutV
+proline	L-proline catabolism	hutW	proline ABC transporter, permease component HutW
+proline	L-proline catabolism	hutX	proline ABC transporter, substrate-binding component HutX
+proline	L-proline catabolism	natA	proline ABC transporter, ATPase component 1 (NatA)
+proline	L-proline catabolism	natB	proline ABC transporter, substrate-binding component NatB
+proline	L-proline catabolism	natC	proline ABC transporter, permease component 1 (NatC)
+proline	L-proline catabolism	natD	proline ABC transporter, permease component 2 (NatD)
+proline	L-proline catabolism	natE	proline ABC transporter, ATPase component 2 (NatE)
+proline	L-proline catabolism	opuBA	proline ABC transporter, ATPase component OpuBA/BusAA
+proline	L-proline catabolism	opuBB	proline ABC transporter, fused permease and substrate-binding components OpuBB/BusAB
+proline	L-proline catabolism	prdA	D-proline reductase, prdA component
+proline	L-proline catabolism	prdB	D-proline reductase, prdB component
+proline	L-proline catabolism	prdC	D-proline reductase, electron transfer component PrdC
+proline	L-proline catabolism	prdF	proline racemase
+proline	L-proline catabolism	proP	proline:H+ symporter ProP
+proline	L-proline catabolism	proV	proline ABC transporter, ATPase component ProV
+proline	L-proline catabolism	proW	proline ABC transporter, permease component ProW
+proline	L-proline catabolism	proX	proline ABC transporter, substrate-binding component ProX
+proline	L-proline catabolism	proY	proline:H+ symporter
+proline	L-proline catabolism	put1	proline dehydrogenase
+proline	L-proline catabolism	putA	L-glutamate 5-semialdeyde dehydrogenase
+proline	L-proline catabolism	putP	proline:Na+ symporter
+propionate	propionate catabolism	SLC5A8	sodium-coupled monocarboxylate transporter
+propionate	propionate catabolism	acn	(2R,3S)-2-methylcitrate dehydratase
+propionate	propionate catabolism	acnD	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming)
+propionate	propionate catabolism	dddA	3-hydroxypropionate dehydrogenase
+propionate	propionate catabolism	epi	methylmalonyl-CoA epimerase
+propionate	propionate catabolism	hpcD	3-hydroxypropionyl-CoA dehydratase
+propionate	propionate catabolism	iolA	malonate semialdehyde dehydrogenase (CoA-acylating)
+propionate	propionate catabolism	lctP	propionate permease
+propionate	propionate catabolism	mcm-large	methylmalonyl-CoA mutase, large (catalytic) subunit
+propionate	propionate catabolism	mcm-small	methylmalonyl-CoA mutase, small (adenosylcobamide-binding) subunit
+propionate	propionate catabolism	mcmA	methylmalonyl-CoA mutase, fused catalytic and adenosylcobamide-binding components
+propionate	propionate catabolism	mctC	propionate:H+ symporter
+propionate	propionate catabolism	mctP	propionate permease
+propionate	propionate catabolism	pccA	propionyl-CoA carboxylase, alpha subunit
+propionate	propionate catabolism	pccA1	propionyl-CoA carboxylase, biotin carboxyl carrier subunit
+propionate	propionate catabolism	pccA2	propionyl-CoA carboxylase, biotin carboxylase subunit
+propionate	propionate catabolism	pccB	propionyl-CoA carboxylase, beta subunit
+propionate	propionate catabolism	pco	propanyl-CoA oxidase
+propionate	propionate catabolism	prpB	2-methylisocitrate lyase
+propionate	propionate catabolism	prpC	2-methylcitrate synthase
+propionate	propionate catabolism	prpD	2-methylcitrate dehydratase
+propionate	propionate catabolism	prpE	propionyl-CoA synthetase
+propionate	propionate catabolism	prpF	methylaconitate isomerase
+propionate	propionate catabolism	putP	propionate transporter; proline:Na+ symporter
+putrescine	putrescine catabolism	POT1	putrescine:H+ symporter POT1
+putrescine	putrescine catabolism	TPO1	putrescine transporter TPO1
+putrescine	putrescine catabolism	UGA4	putrescine transporter UGA4
+putrescine	putrescine catabolism	gabD	succinate semialdehyde dehydrogenase
+putrescine	putrescine catabolism	gabT	gamma-aminobutyrate transaminase
+putrescine	putrescine catabolism	patA	putrescine aminotransferase (PatA/SpuC)
+putrescine	putrescine catabolism	patD	gamma-aminobutyraldehyde dehydrogenase
+putrescine	putrescine catabolism	potA	putrescine ABC transporter, ATPase component (PotA/PotG)
+putrescine	putrescine catabolism	potB	putrescine ABC transporter, permease component 1 (PotB/PotH)
+putrescine	putrescine catabolism	potC	putrescine ABC transporter, permease component 2 (PotC/PotI)
+putrescine	putrescine catabolism	potD	putrescine ABC transporter, substrate-binding component (PotD/PotF)
+putrescine	putrescine catabolism	potE	putrescine:H+ symporter PotE
+putrescine	putrescine catabolism	puo	putrescine oxidase
+putrescine	putrescine catabolism	puuA	glutamate-putrescine ligase
+putrescine	putrescine catabolism	puuB	gamma-glutamylputrescine oxidase
+putrescine	putrescine catabolism	puuC	gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase
+putrescine	putrescine catabolism	puuD	gamma-glutamyl-gamma-aminobutyrate hydrolase
+putrescine	putrescine catabolism	puuP	putrescine:H+ symporter PuuP/PlaP
+pyruvate	pyruvate catabolism	JEN1	pyruvate symporter JEN1
+pyruvate	pyruvate catabolism	MCT4	pyruvate symporter MCT4 (SLC16A3)
+pyruvate	pyruvate catabolism	SLC5A8	sodium-coupled pyruvate transporter
+pyruvate	pyruvate catabolism	actP	large subunit of pyruvate transporter (actP-like)
+pyruvate	pyruvate catabolism	btsT	pyruvate symporter BtsT
+pyruvate	pyruvate catabolism	cstA	large subunit of pyruvate transporter (CstA)
+pyruvate	pyruvate catabolism	dctM	pyruvate TRAP transporter, large permease component
+pyruvate	pyruvate catabolism	dctP	pyruvate TRAP transporter, substrate-binding component
+pyruvate	pyruvate catabolism	dctQ	pyruvate TRAP transporter, small permease component
+pyruvate	pyruvate catabolism	mctC	pyruvate symporter MctC
+pyruvate	pyruvate catabolism	mctP	pyruvate permease MctP
+pyruvate	pyruvate catabolism	ybdD	small subunit of pyruvate transporter (YbdD)
+pyruvate	pyruvate catabolism	yjcH	putative small subunit of pyruvate transporter (yjcH-like)
+rhamnose	L-rhamnose catabolism	BPHYT_RS34240	L-rhamnose ABC transporter, permease component
+rhamnose	L-rhamnose catabolism	BPHYT_RS34245	L-rhamnose ABC transporter, ATPase component
+rhamnose	L-rhamnose catabolism	BPHYT_RS34250	L-rhamnose ABC transporter, substrate-binding component
+rhamnose	L-rhamnose catabolism	Echvi_1617	L-rhamnose transporter
+rhamnose	L-rhamnose catabolism	LRA1	L-rhamnofuranose dehydrogenase
+rhamnose	L-rhamnose catabolism	LRA2	L-rhamnono-gamma-lactonase
+rhamnose	L-rhamnose catabolism	LRA3	L-rhamnonate dehydratase
+rhamnose	L-rhamnose catabolism	LRA4	2-keto-3-deoxy-L-rhamnonate aldolase
+rhamnose	L-rhamnose catabolism	LRA5	2-keto-3-deoxy-L-rhamnonate 4-dehydrogenase
+rhamnose	L-rhamnose catabolism	LRA6	2,4-diketo-3-deoxyrhamnonate hydrolase
+rhamnose	L-rhamnose catabolism	aldA	lactaldehyde dehydrogenase
+rhamnose	L-rhamnose catabolism	fucO	L-lactaldehyde reductase
+rhamnose	L-rhamnose catabolism	rhaA	L-rhamnose isomerase
+rhamnose	L-rhamnose catabolism	rhaB	L-rhamnulokinase
+rhamnose	L-rhamnose catabolism	rhaD	rhamnulose 1-phosphate aldolase
+rhamnose	L-rhamnose catabolism	rhaM	L-rhamnose mutarotase
+rhamnose	L-rhamnose catabolism	rhaP	L-rhamnose ABC transporter, permease component 1 (RhaP)
+rhamnose	L-rhamnose catabolism	rhaQ	L-rhamnose ABC transporter, permease component 2 (RhaQ)
+rhamnose	L-rhamnose catabolism	rhaS	L-rhamnose ABC transporter, substrate-binding component RhaS
+rhamnose	L-rhamnose catabolism	rhaT	L-rhamnose:H+ symporter RhaT
+rhamnose	L-rhamnose catabolism	rhaT'	L-rhamnose ABC transporter, ATPase component RhaT
+ribose	D-ribose catabolism	BT2809	D-ribose transporter
+ribose	D-ribose catabolism	LmGT2	D-ribose transporter LmGT2
+ribose	D-ribose catabolism	PLT5	D-ribose transporter PLT5
+ribose	D-ribose catabolism	frcA	D-ribose ABC transporter, ATPase component FrcA
+ribose	D-ribose catabolism	frcB	D-ribose ABC transporter, substrate-binding component FrcB
+ribose	D-ribose catabolism	frcC	D-ribose ABC transporter, permease component FrcC
+ribose	D-ribose catabolism	fru2-IIA	D-ribose PTS, IIA component
+ribose	D-ribose catabolism	fru2-IIB	D-ribose PTS, IIB component
+ribose	D-ribose catabolism	fru2-IIC	D-ribose PTS, IIC component
+ribose	D-ribose catabolism	rbsA	D-ribose ABC transporter, ATPase component RbsA
+ribose	D-ribose catabolism	rbsB	D-ribose ABC transporter, substrate-binding component RbsB
+ribose	D-ribose catabolism	rbsC	D-ribose ABC transporter, permease component RbsC
+ribose	D-ribose catabolism	rbsK	ribokinase
+ribose	D-ribose catabolism	rbsU	probable D-ribose transporter RbsU
+serine	L-serine catabolism	AAP1	L-serine transporter AAP1
+serine	L-serine catabolism	Ac3H11_1692	L-tyrosine ABC transporter, ATPase component 2
+serine	L-serine catabolism	Ac3H11_1693	L-tyrosine ABC transporter, ATPase component 1
+serine	L-serine catabolism	Ac3H11_1694	L-tyrosine ABC transporter, permease component 2
+serine	L-serine catabolism	Ac3H11_1695	L-tyrosine ABC transporter, permease component 1
+serine	L-serine catabolism	Ac3H11_2396	L-tyrosine ABC transporter, substrate-binding component component
+serine	L-serine catabolism	dlsT	L-serine transporter DlsT
+serine	L-serine catabolism	sdaB	L-serine ammonia-lyase
+serine	L-serine catabolism	sdaC	L-serine transporter:H+ symporter sdaC
+serine	L-serine catabolism	sdhA	FeS-containing L-serine dehydratase, alpha subunit
+serine	L-serine catabolism	sdhB	FeS-containing L-serine dehydratase, beta subunit
+serine	L-serine catabolism	serP	L-serine permease SerP
+serine	L-serine catabolism	snatA	L-serine transporter
+serine	L-serine catabolism	sstT	L-serine:Na+ symporter SstT
+sorbitol	D-sorbitol (glucitol) catabolism	SOT	sorbitol:H+ co-transporter SOT1 or SOT2
+sorbitol	D-sorbitol (glucitol) catabolism	mtlA	PTS system for polyols, EII-CBA components
+sorbitol	D-sorbitol (glucitol) catabolism	mtlE	ABC transporter for polyols MtlEFGK, substrate-binding component MtlE
+sorbitol	D-sorbitol (glucitol) catabolism	mtlF	ABC transporter for polyols MtlEFGK, permease component MtlF
+sorbitol	D-sorbitol (glucitol) catabolism	mtlG	ABC transporter for polyols MtlEFGK, permease component MtlG
+sorbitol	D-sorbitol (glucitol) catabolism	mtlK	ABC transporter for polyols MtlEFGK, permease component MtlK
+sorbitol	D-sorbitol (glucitol) catabolism	sdh	sorbitol dehydrogenase
+sorbitol	D-sorbitol (glucitol) catabolism	srlA	PTS system for sorbitol SrlABE, EII-C2 component SrlA
+sorbitol	D-sorbitol (glucitol) catabolism	srlB	PTS system for sorbitol SrlABE, EII-A component SrlB
+sorbitol	D-sorbitol (glucitol) catabolism	srlD	sorbitol 6-phosphate 2-dehydrogenase
+sorbitol	D-sorbitol (glucitol) catabolism	srlE	PTS system for sorbitol SrlABE, EII-BC1 component SrlE
+succinate	succinate catabolism	Dshi_1194	TRAP transporter for succinate, fumarate, L-malate, and 2-oxoglutarate, fused 4TM/12TM components
+succinate	succinate catabolism	Dshi_1195	TRAP transporter for succinate, fumarate, L-malate, and 2-oxoglutarate, substrate-binding component
+succinate	succinate catabolism	dauA	succinate:H+ symporter DauA
+succinate	succinate catabolism	dctA	succinate:H+ symporter DctA
+succinate	succinate catabolism	dctM	succinate TRAP transporter, large permease protein DctM
+succinate	succinate catabolism	dctP	succinate TRAP transporter, component DctP
+succinate	succinate catabolism	dctQ	succinate TRAP transporter, small permease component DctQ
+succinate	succinate catabolism	satP	succinate:H+ symporter SatP
+succinate	succinate catabolism	sdc	succinate:Na+ symporter Sdc
+sucrose	sucrose catabolism	SLC45A2	sucrose transporter
+sucrose	sucrose catabolism	SLC45A3	sucrose:H+ symporter
+sucrose	sucrose catabolism	SLC45A4	sucrose:H+ symporter
+sucrose	sucrose catabolism	SUS	sucrose synthase
+sucrose	sucrose catabolism	TMT1	heteromeric sucrose:H+ symporter, TMT1 component
+sucrose	sucrose catabolism	TMT2	heteromeric sucrose:H+ symporter, TMT2 component
+sucrose	sucrose catabolism	aglE	sucrose ABC transporter, substrate-binding component AglK
+sucrose	sucrose catabolism	aglF	sucrose ABC transporter, permease component 1 (AglF)
+sucrose	sucrose catabolism	aglG	sucrose ABC transporter, permease component 2 (AglG)
+sucrose	sucrose catabolism	aglK	sucrose ABC transporter, ATPase component AglK
+sucrose	sucrose catabolism	ams	sucrose hydrolase (invertase)
+sucrose	sucrose catabolism	cscB	sucrose:H+ symporter CscB
+sucrose	sucrose catabolism	galU	glucose 1-phosphate uridylyltransferase
+sucrose	sucrose catabolism	ptsS	sucrose phosphotransferase enzyme EII-BCA
+sucrose	sucrose catabolism	sacP	sucrose phosphotransferase enzyme EII-BC
+sucrose	sucrose catabolism	scrB	sucrose-6-phosphate hydrolase
+sucrose	sucrose catabolism	scrP	sucrose phosphorylase
+sucrose	sucrose catabolism	scrT	sucrose permease ScrT
+sucrose	sucrose catabolism	sut	sucrose:proton symporter SUT/SUC
+sucrose	sucrose catabolism	sut1	alpha-glucoside permease Sut1
+sucrose	sucrose catabolism	thuE	sucrose ABC transporter, substrate-binding component ThuE
+sucrose	sucrose catabolism	thuF	sucrose ABC transporter, permease component 1 (ThuF)
+sucrose	sucrose catabolism	thuG	sucrose ABC transporter, permease component 2 (ThuG)
+sucrose	sucrose catabolism	thuK	sucrose ABC transporter, ATPase component ThuK
+threonine	L-threonine catabolism	RR42_RS28305	L-threonine:H+ symporter
+threonine	L-threonine catabolism	gcvH	glycine cleavage system, H component (lipoyl protein)
+threonine	L-threonine catabolism	gcvP	glycine cleavage system, P component (glycine decarboxylase)
+threonine	L-threonine catabolism	gcvT	glycine cleavage system, T component (tetrahydrofolate aminomethyltransferase)
+threonine	L-threonine catabolism	gloA	glyoxylase I
+threonine	L-threonine catabolism	gloB	hydroxyacylglutathione hydrolase (glyoxalase II)
+threonine	L-threonine catabolism	grdA	glycine reductase component A1
+threonine	L-threonine catabolism	grdB	glycine reductase component B, gamma subunit
+threonine	L-threonine catabolism	grdC	glycine reductase component C, beta subunit
+threonine	L-threonine catabolism	grdD	glycine reductase component C, alpha subunit
+threonine	L-threonine catabolism	grdE	glycine reductase component B, precursor to alpha/beta subunits
+threonine	L-threonine catabolism	kbl	glycine C-acetyltransferase (2-amino-3-ketobutyrate CoA-ligase)
+threonine	L-threonine catabolism	lpd	dihydrolipoyl dehydrogenase
+threonine	L-threonine catabolism	ltaE	L-threonine aldolase
+threonine	L-threonine catabolism	phtA	L-threonine uptake permease PhtA
+threonine	L-threonine catabolism	serP1	L-threonine uptake transporter SerP1
+threonine	L-threonine catabolism	snatA	L-threonine transporter snatA
+threonine	L-threonine catabolism	sstT	L-threonine:Na+ symporter SstT
+threonine	L-threonine catabolism	tdcB	L-threonine dehydratase
+threonine	L-threonine catabolism	tdcC	L-threonine:H+ symporter TdcC
+threonine	L-threonine catabolism	tdcE	2-ketobutyrate formate-lyase
+threonine	L-threonine catabolism	tdh	L-threonine 3-dehydrogenase
+threonine	L-threonine catabolism	tynA	aminoacetone oxidase
+threonine	L-threonine catabolism	yvgN	methylglyoxal reductase (NADPH-dependent)
+thymidine	thymidine catabolism	Slc28a3	thymidine:Na+ symporter SLC28A3
+thymidine	thymidine catabolism	Slc29a1	thymidine transporter Slc29a1
+thymidine	thymidine catabolism	deoA	thymidine phosphorylase DeoA
+thymidine	thymidine catabolism	nupC	thymidine permease NupC
+thymidine	thymidine catabolism	nupG	thymidine permease NupG/XapB
+trehalose	trehalose catabolism	BT2158	periplasmic trehalose 3-dehydrogenase (BT2158)
+trehalose	trehalose catabolism	PsTP	trehalose phosphorylase
+trehalose	trehalose catabolism	TRET1	facilitated trehalose transporter Tret1
+trehalose	trehalose catabolism	aglE	trehalose ABC transporter, substrate-binding component AglE
+trehalose	trehalose catabolism	aglF	trehalose ABC transporter, permease component 1 (AglF)
+trehalose	trehalose catabolism	aglG	trehalose ABC transporter, permease component 2 (AglG)
+trehalose	trehalose catabolism	aglK	trehalose ABC trehalose, ATPase component AglK
+trehalose	trehalose catabolism	klh	3-ketotrehalose hydrolase
+trehalose	trehalose catabolism	lacA	periplasmic trehalose 3-dehydrogenase, LacA subunit
+trehalose	trehalose catabolism	lacB	periplasmic trehalose 3-dehydrogenase, cytochrome c subunit (LacB)
+trehalose	trehalose catabolism	lacC	periplasmic trehalose 3-dehydrogenase, LacC subunit
+trehalose	trehalose catabolism	lpqY	trehalose ABC transporter, substrate-binding lipoprotein component LpqY
+trehalose	trehalose catabolism	malE2	trehalose ABC transporter, substrate-binding component MalE2
+trehalose	trehalose catabolism	malF	trehalose ABC transporter, permease component 1 (MalF)
+trehalose	trehalose catabolism	malF1	trehalose ABC transporter, permease component 1
+trehalose	trehalose catabolism	malG	trehalose ABC transporter, permease component 2 (MalG)
+trehalose	trehalose catabolism	malG1	trehalose ABC transporter, permease component 2 (MalG1/MalG2)
+trehalose	trehalose catabolism	malK	trehalose ABC transporter, ATPase component MalK
+trehalose	trehalose catabolism	malX	trehalose ABC transporter, substrate-binding component MalX
+trehalose	trehalose catabolism	pgmB	beta-phosphoglucomutase
+trehalose	trehalose catabolism	thuE	trehalose ABC transporter, substrate-binding component ThuE
+trehalose	trehalose catabolism	thuF	trehalose ABC transporter, permease component 1 (ThuF)
+trehalose	trehalose catabolism	thuG	trehalose ABC transporter, permease component 2 (ThuG)
+trehalose	trehalose catabolism	thuK	trehalose ABC transporter, ATPase component ThuK
+trehalose	trehalose catabolism	treB	trehalose PTS system, EII-BC components TreB
+trehalose	trehalose catabolism	treC	trehalose-6-phosphate hydrolase
+trehalose	trehalose catabolism	treEIIA	N-acetylglucosamine phosphotransferase system, EII-A component (Crr/PtsG/YpqE/GamP)
+trehalose	trehalose catabolism	treF	trehalase
+trehalose	trehalose catabolism	treP	trehalose phosphorylase, inverting
+trehalose	trehalose catabolism	trePP	trehalose-6-phosphate phosphorylase
+trehalose	trehalose catabolism	treS	trehalose ABC transporter, substrate-binding comopnent TreS
+trehalose	trehalose catabolism	treT	trehalose ABC transporter, permease component 1 (TreT)
+trehalose	trehalose catabolism	treU	trehalose ABC transporter, permease component 2 (TreU)
+trehalose	trehalose catabolism	treV	trehalose ABC transporter, ATPase component TreV
+tryptophan	L-tryptophan catabolism	TAT	tryptophan permease
+tryptophan	L-tryptophan catabolism	andAa	anthranilate 1,2-dioxygenase (deaminating, decarboxylating), ferredoxin--NAD(+) reductase component AndAa
+tryptophan	L-tryptophan catabolism	andAb	anthranilate 1,2-dioxygenase (deaminating, decarboxylating), ferredoxin subunit AndAb
+tryptophan	L-tryptophan catabolism	andAc	anthranilate 1,2-dioxygenase (deaminating, decarboxylating), large subunit AndAc
+tryptophan	L-tryptophan catabolism	andAd	athranilate 1,2-dioxygenase (deaminating, decarboxylating), small subunit AndAd
+tryptophan	L-tryptophan catabolism	antA	anthranilate 1,2-dioxygenase (deaminating, decarboxylating), large subunit AntA
+tryptophan	L-tryptophan catabolism	antB	anthranilate 1,2-dioxygenase (deaminating, decarboxylating), small subunit AntB
+tryptophan	L-tryptophan catabolism	antC	anthranilate 1,2-dioxygenase (deaminating, decarboxylating), electron transfer component AntC
+tryptophan	L-tryptophan catabolism	aroP	tryptophan:H+ symporter AroP
+tryptophan	L-tryptophan catabolism	catA	catechol 1,2-dioxygenase
+tryptophan	L-tryptophan catabolism	catB	muconate cycloisomerase
+tryptophan	L-tryptophan catabolism	catC	muconolactone isomerase
+tryptophan	L-tryptophan catabolism	ecfA1	energy-coupling factor transporter, ATPase 1 (A1) component
+tryptophan	L-tryptophan catabolism	ecfA2	energy-coupling factor transporter, ATPase 2 (A2) component
+tryptophan	L-tryptophan catabolism	ecfT	energy-coupling factor transporter, transmembrane (T) component
+tryptophan	L-tryptophan catabolism	hpaH	anthranilate 3-monooxygenase (hydroxylase), FADH2-dependent
+tryptophan	L-tryptophan catabolism	kyn	kynureninase
+tryptophan	L-tryptophan catabolism	kynA	tryptophan 2,3-dioxygenase
+tryptophan	L-tryptophan catabolism	kynB	kynurenine formamidase
+tryptophan	L-tryptophan catabolism	nbaC	3-hydroxyanthranilate 3,4-dioxygenase
+tryptophan	L-tryptophan catabolism	nbaD	2-amino-3-carboxymuconate-6-semialdehyde decarboxylase
+tryptophan	L-tryptophan catabolism	nbaE	2-aminomuconate 6-semialdehyde dehydrogenase
+tryptophan	L-tryptophan catabolism	nbaF	2-aminomuconate deaminase
+tryptophan	L-tryptophan catabolism	nbaG	2-oxo-3-hexenedioate decarboxylase
+tryptophan	L-tryptophan catabolism	sibC	L-kynurenine 3-monooxygenase
+tryptophan	L-tryptophan catabolism	tnaA	tryptophanase
+tryptophan	L-tryptophan catabolism	tnaB	tryptophan:H+ symporter TnaB
+tryptophan	L-tryptophan catabolism	tnaT	tryptophan:Na+ symporter TnaT
+tryptophan	L-tryptophan catabolism	trpP	energy-coupling factor transporter, tryptophan-specific (S) component TrpP
+tryptophan	L-tryptophan catabolism	xylE	catechol 2,3-dioxygenase
+tyrosine	L-tyrosine catabolism	Ac3H11_1692	L-tyrosine ABC transporter, ATPase component 2
+tyrosine	L-tyrosine catabolism	Ac3H11_1693	L-tyrosine ABC transporter, ATPase component 1
+tyrosine	L-tyrosine catabolism	Ac3H11_1694	L-tyrosine ABC transporter, permease component 2
+tyrosine	L-tyrosine catabolism	Ac3H11_1695	L-tyrosine ABC transporter, permease component 1
+tyrosine	L-tyrosine catabolism	Ac3H11_2396	L-tyrosine ABC transporter, substrate-binding component component
+tyrosine	L-tyrosine catabolism	CAT	L-tyrosine transporter CAT
+tyrosine	L-tyrosine catabolism	HPD	4-hydroxyphenylpyruvate dioxygenase
+tyrosine	L-tyrosine catabolism	MCT10	L-tyrosine transporter MCT10
+tyrosine	L-tyrosine catabolism	TAT1	L-tyrosine permease TAT1
+tyrosine	L-tyrosine catabolism	aroP	L-tyrosine transporter (AroP/FywP)
+tyrosine	L-tyrosine catabolism	fahA	fumarylacetoacetate hydrolase
+tyrosine	L-tyrosine catabolism	hmgA	homogentisate dioxygenase
+tyrosine	L-tyrosine catabolism	maiA	maleylacetoacetate isomerase
+tyrosine	L-tyrosine catabolism	tyrP	Tyrosine permease
+tyrosine	L-tyrosine catabolism	tyt1	L-tyrosine:Na+ symporter Tyt1
+valine	L-valine catabolism	Bap2	L-valine permease Bap2
+valine	L-valine catabolism	acdH	isobutyryl-CoA dehydrogenase
+valine	L-valine catabolism	bcaP	L-valine uptake transporter BcaP/CitA
+valine	L-valine catabolism	bch	3-hydroxyisobutyryl-CoA hydrolase
+valine	L-valine catabolism	brnQ	L-valine:cation symporter BrnQ/BraZ/BraB
+valine	L-valine catabolism	livF	L-valine ABC transporter, ATPase component 1 (LivF/BraG)
+valine	L-valine catabolism	livG	L-valine ABC transporter, ATPase component 2 (LivG/BraF)
+valine	L-valine catabolism	livH	L-valine ABC transporter, permease component 1 (LivH/BraD)
+valine	L-valine catabolism	livJ	L-valine ABC transporter, substrate-binding component (LivJ/LivK/BraC/BraC3)
+valine	L-valine catabolism	livM	L-valine ABC transporter, permease component 2 (LivM/BraE)
+valine	L-valine catabolism	mmsA	methylmalonate-semialdehyde dehydrogenase
+valine	L-valine catabolism	mmsB	3-hydroxyisobutyrate dehydrogenase
+valine	L-valine catabolism	natA	L-valine ABC transporter, ATPase component 1 (NatA)
+valine	L-valine catabolism	natB	L-valine ABC transporter, substrate-binding component NatB
+valine	L-valine catabolism	natC	L-valine ABC transporter, permease component 1 (NatC)
+valine	L-valine catabolism	natD	L-valine ABC transporter, permease component 2 (NatD)
+valine	L-valine catabolism	natE	L-valine ABC transporter, ATPase component 2 (NatE)
+valine	L-valine catabolism	phtJ	L-valine uptake permease PhtJ
+xylitol	xylitol catabolism	Dshi_0546	xylitol ABC transporter, ATPase component
+xylitol	xylitol catabolism	Dshi_0547	xylitol ABC transporter, substrate-binding component
+xylitol	xylitol catabolism	Dshi_0548	xylitol ABC transporter, permease component 1
+xylitol	xylitol catabolism	Dshi_0549	xylitol ABC transporter, permease component 2
+xylitol	xylitol catabolism	EIIA-Axl	xylitol PTS, enzyme IIA (EIIA-Axl)
+xylitol	xylitol catabolism	EIIB-Axl	xylitol PTS, enzyme IIB (EIIB-Axl)
+xylitol	xylitol catabolism	EIIC-Axl	xylitol PTS, enzyme IIC (EIIC-Axl)
+xylitol	xylitol catabolism	HSERO_RS17000	xylitol ABC transporter, substrate-binding component
+xylitol	xylitol catabolism	HSERO_RS17005	xylitol ABC transporter, permease component 1
+xylitol	xylitol catabolism	HSERO_RS17010	xylitol ABC transporter, permease component 2
+xylitol	xylitol catabolism	HSERO_RS17020	xylitol ABC transporter, ATPase component
+xylitol	xylitol catabolism	PLT5	xylitol:H+ symporter PLT5
+xylitol	xylitol catabolism	PS417_12055	xylitol ABC transporter, substrate-binding component
+xylitol	xylitol catabolism	PS417_12060	xylitol ABC transporter, permease component
+xylitol	xylitol catabolism	PS417_12065	xylitol ABC transporter, ATPase component
+xylitol	xylitol catabolism	fruI	xylitol PTS, enzyme IIABC (FruI)
+xylitol	xylitol catabolism	x5p-reductase	D-xylulose-5-phosphate 2-reductase
+xylose	D-xylose catabolism	DKDP-aldolase	2-dehydro-3-deoxy-D-arabinonate aldolase
+xylose	D-xylose catabolism	DKDP-dehydrog	D-2-keto-3-deoxypentoate dehydrogenase
+xylose	D-xylose catabolism	Echvi_1871	sodium/xylose cotransporter
+xylose	D-xylose catabolism	HDOP-hydrol	5-hydroxy-2,4-dioxopentanonate hydrolase
+xylose	D-xylose catabolism	aldA	(glycol)aldehyde dehydrogenase
+xylose	D-xylose catabolism	aldox-large	(glycol)aldehyde oxidoreductase, large subunit
+xylose	D-xylose catabolism	aldox-med	(glycol)aldehyde oxidoreductase, medium subunit
+xylose	D-xylose catabolism	aldox-small	(glycol)aldehyde oxidoreductase, small subunit
+xylose	D-xylose catabolism	araS	component of Arabinose, fructose, xylose porter
+xylose	D-xylose catabolism	araT	component of Arabinose, fructose, xylose porter
+xylose	D-xylose catabolism	araU	component of Arabinose, fructose, xylose porter
+xylose	D-xylose catabolism	araV	component of Arabinose, fructose, xylose porter
+xylose	D-xylose catabolism	dopDH	2,5-dioxopentanonate dehydrogenase
+xylose	D-xylose catabolism	gal2	galactose/glucose/xylose uniporter
+xylose	D-xylose catabolism	glcB	malate synthase
+xylose	D-xylose catabolism	glcP	glucose/mannose/xylose:H+ symporter
+xylose	D-xylose catabolism	gtsA	xylose ABC transporter, periplasmic substrate-binding component GtsA
+xylose	D-xylose catabolism	gtsB	xylose ABC transporter, permease component 1 GtsB
+xylose	D-xylose catabolism	gtsC	xylose ABC transporter, permease component 2 GtsC
+xylose	D-xylose catabolism	gtsD	xylose ABC transporter, ATPase component GtsD
+xylose	D-xylose catabolism	gyaR	glyoxylate reductase
+xylose	D-xylose catabolism	kdaD	2-keto-3-deoxy-D-arabinonate dehydratase
+xylose	D-xylose catabolism	xad	D-xylonate dehydratase
+xylose	D-xylose catabolism	xdh	D-xylose dehydrogenase
+xylose	D-xylose catabolism	xdhA	xylitol dehydrogenase
+xylose	D-xylose catabolism	xylA	xylose isomerase
+xylose	D-xylose catabolism	xylB	xylulokinase
+xylose	D-xylose catabolism	xylC	xylonolactonase
+xylose	D-xylose catabolism	xylE_Tm	ABC transporter for xylose, substrate binding component xylE
+xylose	D-xylose catabolism	xylF	ABC transporter for xylose, substrate binding component xylF
+xylose	D-xylose catabolism	xylF_Tm	ABC transporter for xylose, permease component xylF
+xylose	D-xylose catabolism	xylG	ABC transporter for xylose, ATP-binding component xylG
+xylose	D-xylose catabolism	xylH	ABC transporter for xylose, permease component xylH
+xylose	D-xylose catabolism	xylK_Tm	ABC transporter for xylose, ATP binding component xylK
+xylose	D-xylose catabolism	xylT	D-xylose transporter
+xylose	D-xylose catabolism	xyrA	xylitol reductase

@@ -34,7 +34,7 @@ die $usage
   && defined $outFile;
 die "No organism directory specified\n" unless defined $orgDir;
 $stepsDb = "$resultsDir/path.$set/steps.db";
-foreach my $dir ($resultsDir, "$resultsDir/$orgDir") {
+foreach my $dir ($resultsDir, $orgDir) {
   die "No such directory: $dir\n"
     unless -d $dir;
 }
@@ -44,15 +44,15 @@ my $dbhS = DBI->connect("dbi:SQLite:dbname=${stepsDb}","","",{ RaiseError => 1 }
 my $reqs = $dbhS->selectall_arrayref("SELECT * FROM Requirement",
                                      { Slice => {} });
 
-my @orgs = ReadOrgTable("$resultsDir/$orgDir/orgs.org");
-my @sumSteps = ReadTable("$resultsDir/$orgDir/$set.sum.steps",
+my @orgs = ReadOrgTable("$orgDir/orgs.org");
+my @sumSteps = ReadTable("$orgDir/$set.sum.steps",
                          qw{orgId gdb gid pathway step onBestPath score locusId sysName
                             score2 locusId2 sysName2});
 my %sumSteps = ();
 foreach my $row (@sumSteps) {
   push @{ $sumSteps{$row->{orgId}} }, $row;
 }
-my @sumRules = ReadTable("$resultsDir/$orgDir/$set.sum.rules",
+my @sumRules = ReadTable("$orgDir/$set.sum.rules",
                          qw{orgId gdb gid pathway rule score nHi nMed nLo expandedPath});
 my %sumRules = ();
 foreach my $row (@sumRules) {

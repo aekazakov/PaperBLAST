@@ -1,0 +1,163 @@
+arg	L-arginine biosynthesis	argA	N-acylglutamate synthase
+arg	L-arginine biosynthesis	argB	N-acylglutamate kinase
+arg	L-arginine biosynthesis	argC	N-acylglutamylphosphate reductase
+arg	L-arginine biosynthesis	argD	N-acetylornithine aminotransferase
+arg	L-arginine biosynthesis	argD'B	N-succinylornithine aminotransferase
+arg	L-arginine biosynthesis	argE	N-acetylornithine deacetylase
+arg	L-arginine biosynthesis	argE'B	N-succinylcitrulline desuccinylase
+arg	L-arginine biosynthesis	argF'	acetylornithine transcarbamoylase
+arg	L-arginine biosynthesis	argF'B	N-succinylornithine carbamoyltransferase
+arg	L-arginine biosynthesis	argG	arginosuccinate synthetase
+arg	L-arginine biosynthesis	argH	arginosuccinate lyase
+arg	L-arginine biosynthesis	argI	ornithine carbamoyltransferase
+arg	L-arginine biosynthesis	argJ	ornithine acetyltransferase
+arg	L-arginine biosynthesis	argX	glutamate--LysW ligase
+arg	L-arginine biosynthesis	carA	carbamoyl phosphate synthase subunit alpha
+arg	L-arginine biosynthesis	carB	carbamoyl phosphate synthase subunit beta
+asn	L-asparagine biosynthesis	asnA	aspartate--ammonia ligase
+asn	L-asparagine biosynthesis	asnB	asparagine synthase (glutamine-hydrolysing)
+asn	L-asparagine biosynthesis	aspS2	aspartyl-tRNA(Asp/Asn) synthetase
+chorismate	chorismate biosynthesis	aroA	3-phosphoshikimate 1-carboxyvinyltransferase
+chorismate	chorismate biosynthesis	aroA'	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+chorismate	chorismate biosynthesis	aroB	3-dehydroquinate synthase
+chorismate	chorismate biosynthesis	aroB'	dehydroquinate synthase II
+chorismate	chorismate biosynthesis	aroC	chorismate synthase
+chorismate	chorismate biosynthesis	aroD	3-dehydroquinate dehydratase
+chorismate	chorismate biosynthesis	aroE	shikimate dehydrogenase
+chorismate	chorismate biosynthesis	aroG	3-deoxy-7-phosphoheptulonate synthase
+chorismate	chorismate biosynthesis	aroL	shikimate kinase
+chorismate	chorismate biosynthesis	fbp	6-deoxy-5-ketofructose 1-phosphate synthase
+chorismate	chorismate biosynthesis	tpiA	D-glyceraldehyde-3-phosphate phospholyase
+cys	L-cysteine biosynthesis	CBS	cystathionine beta-synthase
+cys	L-cysteine biosynthesis	CGL	cystathionine gamma-lyase
+cys	L-cysteine biosynthesis	Mt_cysM	CysO-thiocarboxylate-dependent cysteine synthase
+cys	L-cysteine biosynthesis	PSSH	O-phosphoserine sulfhydrylase
+cys	L-cysteine biosynthesis	SST	serine O-succinyltransferase
+cys	L-cysteine biosynthesis	cysE	serine acetyltransferase
+cys	L-cysteine biosynthesis	cysK	O-acetylserine sulfhydrylase
+cys	L-cysteine biosynthesis	cysO	sulfur carrier protein CysO
+cys	L-cysteine biosynthesis	mec	[CysO sulfur-carrier protein]-S-L-cysteine hydrolase
+cys	L-cysteine biosynthesis	moeZ	[sulfur carrier protein CysO]--sulfur ligase
+cys	L-cysteine biosynthesis	pscS	Sep-tRNA:Cys-tRNA synthase
+cys	L-cysteine biosynthesis	sepS	O-phosphoseryl-tRNA ligase
+cys	L-cysteine biosynthesis	serK	serine kinase (ADP-dependent)
+gln	L-glutamine biosynthesis	gatA	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A
+gln	L-glutamine biosynthesis	gatB	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+gln	L-glutamine biosynthesis	gatC	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+gln	L-glutamine biosynthesis	gatD	glutamyl-tRNA(Gln) amidotransferase, subunit D
+gln	L-glutamine biosynthesis	gatE	glutamyl-tRNA(Gln) amidotransferase, subunit E
+gln	L-glutamine biosynthesis	glnA	glutamine synthetase
+gln	L-glutamine biosynthesis	gltX	glutamyl-tRNA(Glx) synthetase
+gly	glycine biosynthesis	aceA	isocitrate lyase
+gly	glycine biosynthesis	agx1	alanine--glyoxylate aminotransferase
+gly	glycine biosynthesis	gly1	L-threonine aldolase
+gly	glycine biosynthesis	glyA	serine hydroxymethyltransferase
+his	L-histidine biosynthesis	hisA	isomerase HisA
+his	L-histidine biosynthesis	hisB	IGP dehydratase
+his	L-histidine biosynthesis	hisC	histidinol-phosphate aminotransferase
+his	L-histidine biosynthesis	hisD	histidinol dehydrogenase
+his	L-histidine biosynthesis	hisE	phosphoribosyl-AMP cyclohydrolase
+his	L-histidine biosynthesis	hisF	IGP synthase, cyclase subunit
+his	L-histidine biosynthesis	hisG	ATP phosphoribosyltransferase
+his	L-histidine biosynthesis	hisH	IGP synthase, amidotransferase subunit
+his	L-histidine biosynthesis	hisI	phosphoribosyl-ATP pyrophosphatase
+his	L-histidine biosynthesis	hisN	histidinol-phosphate phosphatase
+his	L-histidine biosynthesis	prs	ribose-phosphate diphosphokinase
+ile	L-isoleucine biosynthesis	cimA	(R)-citramalate synthase
+ile	L-isoleucine biosynthesis	ilvA	threonine deaminase
+ile	L-isoleucine biosynthesis	ilvC	2-hydroxy-3-ketol-acid reductoisomerase
+ile	L-isoleucine biosynthesis	ilvD	(R)-2,3-dihydroxy-3-methylpentanoate dehydratase
+ile	L-isoleucine biosynthesis	ilvE	isoleucine transaminase
+ile	L-isoleucine biosynthesis	ilvH	acetohydroxybutanoate synthase catalytic subunit
+ile	L-isoleucine biosynthesis	ilvI	acetohydroxybutanoate synthase regulatory subunit 
+ile	L-isoleucine biosynthesis	leuB	3-methylmalate dehydrogenase
+ile	L-isoleucine biosynthesis	leuC	citramalate isomerase large subunit
+ile	L-isoleucine biosynthesis	leuD	citramalate isomerase small subunit
+ile	L-isoleucine biosynthesis	ofoa	2-oxobutanoate:ferredoxin oxidoreductase, alpha subunit
+ile	L-isoleucine biosynthesis	ofob	2-oxobutanoate:ferredoxin oxidoreductase, beta subunit
+ile	L-isoleucine biosynthesis	prpE	propionyl-CoA synthetase
+leu	L-leucine biosynthesis	ilvE	leucine transaminase
+leu	L-leucine biosynthesis	leuA	2-isopropylmalate synthase
+leu	L-leucine biosynthesis	leuB	3-isopropylmalate dehydrogenase
+leu	L-leucine biosynthesis	leuC	3-isopropylmalate dehydratase, large subunit
+leu	L-leucine biosynthesis	leuD	3-isopropylmalate dehydaratase, small subunit
+lys	L-lysine biosynthesis	DAPtransferase	L,L-diaminopimelate aminotransferase
+lys	L-lysine biosynthesis	dapA	4-hydroxy-tetrahydrodipicolinate synthase
+lys	L-lysine biosynthesis	dapB	4-hydroxy-tetrahydrodipicolinate reductase
+lys	L-lysine biosynthesis	dapC	N-succinyldiaminopimelate aminotransferase
+lys	L-lysine biosynthesis	dapD	tetrahydrodipicolinate succinylase
+lys	L-lysine biosynthesis	dapE	succinyl-diaminopimelate desuccinylase
+lys	L-lysine biosynthesis	dapF	diaminopimelate epimerase
+lys	L-lysine biosynthesis	dapH	tetrahydrodipicolinate acetyltransferase
+lys	L-lysine biosynthesis	dapL	N-acetyl-diaminopimelate deacetylase
+lys	L-lysine biosynthesis	dapX	acetyl-diaminopimelate aminotransferase
+lys	L-lysine biosynthesis	ddh	meso-diaminopimelate D-dehydrogenase
+lys	L-lysine biosynthesis	hcs	homocitrate synthase
+lys	L-lysine biosynthesis	hicdh	homo-isocitrate dehydrogenase
+lys	L-lysine biosynthesis	lysA	diaminopimelate decarboxylase
+lys	L-lysine biosynthesis	lysJ	[LysW]-2-aminoadipate semialdehyde transaminase / [LysW]-glutamate semialdehyde transaminase
+lys	L-lysine biosynthesis	lysK	[LysW]-lysine hydrolase / [LysW]-ornithine hydrolase
+lys	L-lysine biosynthesis	lysN	2-aminoadipate:2-oxoglutarate aminotransferase
+lys	L-lysine biosynthesis	lysT	homoaconitase large subunit
+lys	L-lysine biosynthesis	lysU	homoaconitase small subunit
+lys	L-lysine biosynthesis	lysW	2-aminoadipate/glutamate carrier protein
+lys	L-lysine biosynthesis	lysX	2-aminoadipate-LysW ligase
+lys	L-lysine biosynthesis	lysY	[LysW]-2-aminoadipate 6-phosphate reductase / [LysW]-glutamylphosphate reductase
+lys	L-lysine biosynthesis	lysZ	[LysW]-2-aminoadipate 6-kinase / [LysW]-glutamate kinase
+met	L-methionine biosynthesis	B12-reactivation-domain	MetH reactivation domain
+met	L-methionine biosynthesis	asd	aspartate semi-aldehyde dehydrogenase
+met	L-methionine biosynthesis	asd-S-ferredoxin	reductive sulfuration of L-aspartate semialdehyde, ferredoxin component
+met	L-methionine biosynthesis	asd-S-perS	putative persulfide forming protein
+met	L-methionine biosynthesis	asd-S-transferase	sulfuration of L-aspartate semialdehyde, persulfide component
+met	L-methionine biosynthesis	asp-kinase	aspartate kinase
+met	L-methionine biosynthesis	hom	homoserine dehydrogenase
+met	L-methionine biosynthesis	hom_kinase	homoserine kinase
+met	L-methionine biosynthesis	mesA	Methylcobalamin:homocysteine methyltransferase MesA
+met	L-methionine biosynthesis	mesB	Methylcobalamin:homocysteine methyltransferase MesB
+met	L-methionine biosynthesis	mesD	oxygen-dependent methionine synthase, methyltransferase component MesD
+met	L-methionine biosynthesis	mesX	oxygen-dependent methionine synthase, putative oxygenase component MesX
+met	L-methionine biosynthesis	metA	homoserine O-succinyltransferase
+met	L-methionine biosynthesis	metB	cystathionine gamma-synthase
+met	L-methionine biosynthesis	metC	cystathionine beta-lyase
+met	L-methionine biosynthesis	metE	vitamin B12-independent methionine synthase
+met	L-methionine biosynthesis	metH	vitamin B12-dependent methionine synthase
+met	L-methionine biosynthesis	metX	homoserine O-acetyltransferase
+met	L-methionine biosynthesis	metY	O-acetylhomoserine sulfhydrylase
+met	L-methionine biosynthesis	metZ	O-succinylhomoserine sulfhydrylase
+met	L-methionine biosynthesis	ramA	ATP-dependent reduction of co(II)balamin
+met	L-methionine biosynthesis	split_metH_1	Methionine synthase component, B12 binding and B12-binding cap domains
+met	L-methionine biosynthesis	split_metH_2	Methionine synthase component, methyltransferase domain
+met	L-methionine biosynthesis	split_metH_3	Methionine synthase component, pterin-binding domain
+phe	L-phenylalanine biosynthesis	PPYAT	tyrosine:phenylpyruvate aminotransferase
+phe	L-phenylalanine biosynthesis	aro-dehydratase	arogenate dehydratase
+phe	L-phenylalanine biosynthesis	cmutase	chorismate mutase
+phe	L-phenylalanine biosynthesis	ilvE	phenylalanine transaminase
+phe	L-phenylalanine biosynthesis	preph-dehydratase	prephenate dehydratase
+phe	L-phenylalanine biosynthesis	ptransferase	prephenate aminotransferase
+pro	L-proline biosynthesis	OAT	L-ornithine 5-aminotransferase
+pro	L-proline biosynthesis	cyclodeaminase	ornithine cyclodeaminase
+pro	L-proline biosynthesis	proA	gamma-glutamylphosphate reductase
+pro	L-proline biosynthesis	proB	glutamate 5-kinase
+pro	L-proline biosynthesis	proC	pyrroline-5-carboxylate reductase
+ser	L-serine biosynthesis	serA	3-phosphoglycerate dehydrogenase
+ser	L-serine biosynthesis	serB	phosphoserine phosphatase
+ser	L-serine biosynthesis	serC	3-phosphoserine aminotransferase
+thr	L-threonine biosynthesis	thrB	homoserine kinase
+thr	L-threonine biosynthesis	thrC	threonine synthase
+trp	L-tryptophan biosynthesis	IGPS	indole-3-glycerol phosphate synthase
+trp	L-tryptophan biosynthesis	PRAI	phosphoribosylanthranilate isomerase
+trp	L-tryptophan biosynthesis	trpA	indoleglycerol phosphate aldolase
+trp	L-tryptophan biosynthesis	trpB	tryptophan synthase
+trp	L-tryptophan biosynthesis	trpD_1	glutamine amidotransferase of anthranilate synthase
+trp	L-tryptophan biosynthesis	trpD_2	anthranilate phosphoribosyltransferase
+trp	L-tryptophan biosynthesis	trpE	anthranilate synthase subunit TrpE
+trp	L-tryptophan biosynthesis	trpED	anthranilate synthase, alpha proteobacterial clade
+tyr	L-tyrosine biosynthesis	PAH	phenylalanine hydroxylase
+tyr	L-tyrosine biosynthesis	aro-dehydr	arogenate dehydrogenase
+tyr	L-tyrosine biosynthesis	pre-dehydr	prephenate dehydrogenase
+tyr	L-tyrosine biosynthesis	tyrB	tyrosine aminotransferase
+val	L-valine biosynthesis	ilvC	ketol-acid reductoisomerase
+val	L-valine biosynthesis	ilvD	(R)-2,3-dihydroxy-3-methylbutanoate dehydratase
+val	L-valine biosynthesis	ilvE	valine transaminase
+val	L-valine biosynthesis	ilvH	acetohydroxybutanoate synthase catalytic subunit
+val	L-valine biosynthesis	ilvI	acetohydroxybutanoate synthase regulatory subunit 
