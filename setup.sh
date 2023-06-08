@@ -26,7 +26,7 @@ conda create -y -n cgcms-gapmind
 conda activate cgcms-gapmind
 
 # Install sqlite, hmmer and diamond
-conda install -c anaconda sqlite
+conda install -y -c anaconda sqlite
 conda install -y -c bioconda hmmer diamond
 ln -s $(which hmmsearch) hmmsearch
 ln -s $(which hmmfetch) hmmfetch
