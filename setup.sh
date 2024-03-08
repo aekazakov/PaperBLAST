@@ -1,4 +1,12 @@
 #!/bin/bash
+if ! [ $1 ]
+then
+	echo "Required parameter: conda environment name for the installation"
+	exit
+else
+	CONDAENV=$1
+fi
+echo "Installing GapMind in $CONDAENV environment"
 
 # create directories
 WORKDIR=$(pwd)
@@ -17,13 +25,12 @@ if ! [ -f "$CONDA" ]; then
 		exit
 fi
 echo "Found Conda installation in $CONDADIR"
-
 # Create conda environment
 source $CONDA
 conda config --add channels bioconda
 conda config --add channels conda-forge
-conda create -y -n cgcms-gapmind
-conda activate cgcms-gapmind
+conda create -y -n $CONDAENV
+conda activate $CONDAENV
 
 # Install sqlite, hmmer and diamond
 conda install -y -c anaconda sqlite
